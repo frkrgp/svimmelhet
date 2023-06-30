@@ -10,8 +10,8 @@ book:
     collapse-level: 1
     logo: vertigokvartetten.png
     
-  site-url: https://frkrgp.github.io/svimmelhet.github.io
-  repo-url: https://github.com/frkrgp/svimmelhet.github.io
+  site-url: https://frkrgp.quarto.pub/svimmelhet/
+  repo-url: https://github.com/frkrgp/svimmelhet
   repo-branch: main
   repo-actions: [edit, issue]
   
