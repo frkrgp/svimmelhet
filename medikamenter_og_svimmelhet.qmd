@@ -1,0 +1,11 @@
+## Medikamenter og svimmelhet {#sec-medikamenter}
+
+Medikamentbruk er en av de vanligste årsakene til svimmelhet. En gjennomgang av pasientens medikamenter er derfor en viktig del av anamnesen. Følgende medikamentgrupper er mest aktuelle:
+
+-   Medikamenter som gir blodtrykksfall. Dette gjelder særlig antihypertensiva, diuretika samt enkelte antidepressiva og nevroleptika.
+
+-   Medikamenter som virker på hjernen og gir døsighet, ekstrapyramidale bivirkninger eller ataksi.
+
+-   Medikamenter som påvirker det indre øret. Dette gjelder særlig aminoglykosider, sløyfediuretika og acetylsalisylsyre.
+
+Det er få medikamenter som ikke er rapportert å kunne gi svimmelhet som bivirkning. Særlig eldre pasienter med hypertensjon er utsatt for å utvikle ortostatisk blodtrykksfall med svimmelhet, synkoper og fall. Det er betydelig overforbruk av proklorperazin i behandlingen av svimmelhet. Middelet er kun indisert til kortvarig bruk mot akutt vertigo med kvalme og oppkast og bør ikke gis til pasienter med kronisk svimmelhet. Svimmelhet eller balanseforstyrrelser som oppstår under behandling med aminoglykosider er ototoksisk betinget inntil det motsatte er bevist. Pasienten bør utredes umiddelbart.

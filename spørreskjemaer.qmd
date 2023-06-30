@@ -1,0 +1,35 @@
+## Spørreskjemaer {#sec-spørreskjemaer}
+
+Spørreskjemaer kan gjøre pasientsamtalen mer målrettet og effektiv, samtidig som kvaliteten på innsamlede pasientrapporterte opplysninger blir bedre.
+
+Det finnes mange ulike spørreskjemaer utviklet for å innhente opplysninger om familieforhold, arvelige sykdommer, tidligere sykdommer, medikamenter og allergier i tillegg til mer spesifikke sykdomsskjemaer. Noen av de mer spesifikke skjemaene er:
+
+-   Dizziness Handicap Inventory (DHI) - et skjema med 25 spørsmål som resulterer i en gradering av svimmelhetssymptomene på en skala fra 0 til 100. Skjemaet er validert på norsk[@Tamber2009].
+-   Vertigo Symptom Scale Short Form (VSS-SF) - et skjema med 15 spørsmål utviklet for å skille mellom vestibulære symptomer (ustøhet, vertigoanfall) og andre symptomer som svimle pasienter kan oppleve (hodepine, autonome symptomer, kardiogene symptomer, angst). Skjemaet er validert på norsk[@Wilhelmsen2008].
+-   Haukeland Dizziness Questionnaire (HDQ-10) - et skjema med 10 spørsmål utviklet som et raskere alternativ til DHI med spørsmål som retter seg særlig mot vestibulære symptomer, ustøhet, funksjonsnivå og emosjonelle reaksjoner på svimmelhetssymptomer. Skjemaet er utviklet på norsk.
+-   Hospital Anxiety and Depression Scale - et skjema utviklet for å kartlegge symptomer på angst og depresjon. Skjemaet er validert på norsk.
+-   RAND-12 - Et skjema for generel helserelatert livskvalitet som er validert på norsk.
+
+Balanselaboratoriet og [Nasjonalt kvalitets- og kompetansenettverk for vestibulære sykdommer](https://helse-bergen.no/nasjonal-kompetansetjeneste-for-vestibulere-sykdommer) ved Haukeland universitetssykhus har lagt ut sitt [spørreskjema](https://helse-bergen.no/nasjonal-kompetansetjeneste-for-vestibulere-sykdommer/sporjeskjema-for-pasientar) i pdf-format.
+
+## ABCD~2~ {#sec-abcd2}
+
+ABCD~2~ er en skala fra 0 til 7 poeng for å gradere risiko for hjerneslag hos pasienter etter gjennomgått TIA[@Johnston2007]. En skår på 3 poeng eller mer indikerer moderat til høy risiko. Skalaen er også tatt i bruk i algoritmer for vurdering av pasienter med akutt vertigo, der en skår på ≥ 3 poeng i noen tilfeller brukes som et av kriteriene for inklusjon i slagforløp hos pasienter som har isolert vertigo uten ensidig lammelse eller taleforstyrrelser.
+
++-----------+------------------------------------+--------------------------------+-----------+
+| A         | **A**lder                          | ≥ 60 år                        | 1 poeng   |
++-----------+------------------------------------+--------------------------------+-----------+
+| B         | **B**lodtrykk                      | \> 140/90                      | 1 poeng   |
++-----------+------------------------------------+--------------------------------+-----------+
+| C         | Kliniske tegn (**C**linical signs) | Ensidig lammelse               | 2 poeng   |
+|           |                                    |                                |           |
+|           |                                    | Taleforstyrrelse uten lammelse | 1 poeng   |
++-----------+------------------------------------+--------------------------------+-----------+
+| D~1~      | Symptomvarighet (**D**uration)     | 10 -- 59 minutter              | 1 poeng   |
+|           |                                    |                                |           |
+|           |                                    | ≥ 60 minutter                  | 2 poeng   |
++-----------+------------------------------------+--------------------------------+-----------+
+| D~2~      | **D**iabetes                       |                                | 1 poeng   |
++-----------+------------------------------------+--------------------------------+-----------+
+
+: **ABCD~2~ for gradering av risiko for hjerneslag etter TIA** {tbl-colwidths="[5,45,30,20]"}

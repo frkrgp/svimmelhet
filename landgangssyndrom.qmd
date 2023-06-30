@@ -1,0 +1,29 @@
+## Landgangssyndrom {#sec-landgangssyndrom}
+
+**ICD-10:** Andre spesifiserte skadevirkninger av ytre påvirkning (T75.8)\
+**ICD-11:** Disembarkment syndrome (AB31.4)\
+**Synonymer:** Mal de debarquement\
+**Definisjon:** Landgangssyndrom er en langvarig (\>3 døgn) følelse av ubalanse og gynging (nautisk vertigo) etter reise med båt, fly, bil eller tog. Tilstanden bør ikke blandes sammen med sjøsyke eller vanlig landgangsyke. Sistnevnte er fysiologisk (livstidsprevalens 73 % hos sjømenn), varer vanligvis mindre enn 6 og sjelden mer enn 24 timer.\
+**Forekomst:** Landgangssyndrom er en sjelden diagnose, men eksakt forekomst er ukjent. Noe hyppigere hos kvinner. Oppstår oftest hos voksne (snitt 30-40 år).\
+**Etiologi:** Symptomene utløses oftest av reise med båt, sjeldnere fly, bil og tog. Tilstanden er assosiert med migrene og bevegelsessyke. Årsaken til at enkelte utvikler langvarige symptomer er ukjent.\
+**Patogenese:** Ukjent. En hypotese går ut på at hippocampus lagrer vestibulære signaler som siden gjenoppleves på samme måte som når man får en melodi «på hjernen».\
+**Anamnese og funn:** Debut av nautisk vertigo og følelse av ubalanse kort tid etter reise med båt, fly, bil eller tog. Varighet minst 3 døgn, av og til måneder og år.Noen pasienter har i tillegg spontane episoder. Mange opplever at det å være i bevegelse, særlig å kjøre bil, lindrer symptomene, mens det å sitte i ro forverrer vertigoopplevelsen. Noen pasienter utvikler depresjon.\
+**Diagnose:** Diagnosen stilles ut fra følgende kriterier[@Cha2020]:\
+
+::: diagnose
+*Landgangssyndrom*
+
+A.  Ikke-rotatorisk vertigo kjennetegnet av en følelse av svingninger ("gynging", "bølging", "svaing") til stede kontinuerlig eller mesteparten av dagen
+B.  Symptomdebut innen 48 timer etter avsluttet eksponering for passiv bevegelse
+C.  Symptomene reduseres forbigående ved eksponering for passiv bevegelse
+D.  Symptomene vedvarer i \> 48 timer
+    1.  *Landgangssyndrom i utvikling:* Pågående symptomer, men observasjonsperioden er mindre enn 1 måned
+    2.  *Forbigående landgangssyndrom:* Symptomene opphørt etter ≤ 1 måned
+    3.  *Persisterende landgangssyndrom:* Symptomene vedvart i mer enn 1 måned
+E.  Symptomene er ikke mer forenlig med annen sykdom eller tilstand
+:::
+
+**Ansvarsfordeling:** Øre-nese-hals- og nevrologisk utredning er indisert ved langvarige symptomer. Henvisning til psykolog/psykiater er sjelden indisert med mindre forligger entydig komponent av angst eller depresjon og pasienten er motivert.\
+**Mål for behandling:** Å forkorte sykdomsforløpet og forebygge kronisk svimmelhet. Oppnå best mulig funksjon med eventuelle restsymptomer. Behandle eventuelle komplikasjoner.\
+**Behandling:** Grundig utredning med informasjon for å dempe angst er viktig, dernest å validere/bekrefte pasientens symptomopplevelse. Avvisning eller henvisning til psykiater/psykolog har sjelden positiv effekt. Det finnes ingen dokumentert medikamentell behandling. To studier har antydet effekt av benzodiazepiner, avspenningsteknikker og fystioterapi/balansetrening. Antiemetika syntes ikke å ha effekt. Proklorperazin er relativt kontraindisert ved kronisk svimmelhet. Behandling med selektive serotoninreopptakshemmere kan være indisert ved depresjon.\
+**Prognose:** Tilstanden går spontant over hos de fleste, men en undergruppe synes å ha symptomer som varer i mange år uavhengig av behandling.

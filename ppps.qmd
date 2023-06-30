@@ -1,0 +1,34 @@
+## Persisterende postural-perseptuell svimmelhet (PPPS) {#sec-ppps}
+
+**ICD-10:** Andre spesifiserte forstyrrelser i vestibularisfunksjonen (H81.8)\
+**ICD-11:** Persistant postural-perceptual dizziness (AB32.0)\
+**Synonymer:** *Forkortelser:* PPPS/3PS (norsk) og PPPD/3PD (engelsk)\
+**Merknad:** Sykdomsbetegnelsen PPPS har vært i bruk siden 2014 og er ment å erstatte tidligere betegnelser som fobisk postural vertigo og kronisk subjektiv svimmelhet. Det er betydelig overlapp i kriteriene for disse sykdommene.\
+**Forekomst:** Hyppig i spesialisthelsetjenesten blant pasienter som utredes for svimmelhet. Anslått prevalens 25 % blant pasienter fulgt opp for akutte og episodiske vestibulære syndromer. Forekomst i primærhelsetjenesten er ikke undersøkt.\
+**Etiologi:** *Utløsende årsak*: Se diagnostiske kriterier punkt C. *Mulige risikofaktorer:* Angst- og angstrelaterte personlighetstrekk (ikke til stede hos alle).\
+**Patogenese:** *Mulige mekanismer:* Endret strategi for postural kontroll. Økt vektlegging av visuelle stimuli. Endringer i multi-sensorisk integrering. Muskulære spenninger. Aktivering av sentrale nevrale nettverk som reagerer på fare.\
+**Anamnese:** *Svimmehetens karakter:* Varierer avhengig av underliggende sykdom, se kriterier punkt C. *Tidsforløp:* Se kriterier punkt A og C. *Ledsagende symptomer:* Varierer avhengig av underliggende sykdom. *Utløsende faktorer:* Se kriterier punkt B.\
+**Klinisk undersøkelse:** Klinisk otonevrologisk utredning er indisert. Sykdommen sameksisterer ofte med utløsende vestibulær sykdom. Kliniske funn avhenger av ev underliggende sykdom. *Dix-Hallpikes manøver:* Kan vise posisjonsnystagmus, men ikke tilstrekkelig til å forklare symptombildet.\
+**Supplerende undersøkelser:** *Kalorisk prøve/hodeimpulstest/vestibulære myogene potensialer:* Kan være indisert ved mistanke om ensidig eller bilateral vestibulopati. *Billeddiagnostikk:* Indisert bl.a. ved klinisk mistanke om vestibularisschwannom, MS eller cerebrovaskulær sykdom.\
+**Diagnose:** Basert på anamnese. Ingen spesifikke objektive funn, men slike funn kan likevel være til stede avhengig av tilgrunnliggende vestibulær eller nevrologisk sykdom. Følgende er en oversettelse til norsk av diagnostiske kriterier publisert av den internasjonale konsensusgruppen for klassifikasjon av vestibulære sykdommer (ICVD) [@Staab2017]:
+
+::: diagnose
+Persisterende postural-perseptuell svimmelhet (A-E oppfylt):
+
+A.  Svimmelhet eller følelse av ustøhet som er til stede minst 15 dager per måned i minst 3 måneder
+    1.  Symptomene vedvarer i timer, men kan variere i intensitet
+    2.  Symptomene trenger ikke å være til stede hele dagen
+B.  Vedvarende symptomer oppstår uprovosert, men forverres av tre faktorer:
+    1.  Oppreist stilling
+    2.  Aktive og passive bevegelser uavhengig av retning eller posisjon, og
+    3.  Å se på objekter eller bilder i bevegelse eller på kompliserte mønstre
+C.  Tilstanden utløses av sykdommer som forårsaker vertigo, ustøhet, svimmelhet eller balanseproblemer inkludert akutte, episodiske eller kroniske vestibulære syndromer, andre nevrologiske eller medisinske sykdommer eller psykiske påkjenninger.
+    1.  Ved akutt utløsende sykdom kan symptomene gå over i et kronisk forløp i samsvar med kriterum A etter at den opprinnelige sykdommen er tilhelet. Ved episodisk utløsende sykdom kan symptomene først være intermitterende og gå over til å bli mer vedvarende.
+    2.  Når den tilgrunnliggende sykdommen er et kronisk syndrom, kan symptomene oppstå gradvis og øke over tid.
+D.  Symptomene forårsaker vesentlig ubehag eller funksjonssvikt
+E.  Symptomene er ikke bedre forklart av annen sykdom eller tilstand
+:::
+
+**Ansvarsfordeling:** Leger i primærhelsetjenesten bør kjenne til sykdommen. Videre utredning i spesialisthelsetjenesten (ØNH eller nevrologisk avhengig av anamnese og kliniske funn). Behandling skjer primært i samarbeid med fysioterapeut/manuellterapeut med erfaring i vestibulær rehabilitering samt primærlege.\
+**Behandling:** Grundig anamnese og felles forståelse av symptomene er ofte til hjelp. God pasientinformasjon (se prognose). Vestibulær rehabilitering med vekt på mestring, habituering, balansetrening og koordinasjon av hode-øye-bevegelser samt generell oppmuntring til fysisk aktivitet. Medikamentell behandling med serotonin-reopptak-hemmere (SSRI) kan vurderes.\
+**Prognose:** Sykdommen er ufarlig og har et godartet forløp, men symptomene er langvarige. Det er foreløpig mangel på gode kliniske langtidsstudier på pasientgruppen med PPPD. Foreløpige studier indikerer at fysisk aktivitet og vestibulær rehabilitering har positiv effekt på symptomer og funksjonsnivå. Kognitiv terapi ser ut til å ha forbigående effekt hvis den ikke kombineres med fysisk aktivitet.

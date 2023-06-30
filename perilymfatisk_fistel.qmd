@@ -1,0 +1,24 @@
+## Perilymfatisk fistel {#sec-perilymfatisk_fistel}
+
+**ICD-10:** Labyrintfistel (H83.1)\
+**ICD-11:** Labyrinthine fistula (AB35)\
+**Forekomst:** *Ved kronisk otitt:* Ettårsinsidens ca. 0,3 per 100 000 i Norge tilsvarer ca. 14 nye tilfeller per år. *Barotraumatisk fistel:* Livstidsprevalens 1 % blant erfarne sportsdykkere. *Andre fistler:* Ukjent forekomst. Sjelden, men kan være underdiagnostisert.\
+**Etiologi:** Hodetraume, barotraume (dykking), annen trykkskade (tungt løft, Valsalva), kronisk otitt med cholesteatom. Stapeskirurgi. Spontan fistel (omdiskutert).\
+**Patogenese:** Traumatisk fistel i det runde eller ovale vindu forårsaker lekkasje av perilymfe med nevrogent hørselstap og vertigo. Cholesteatom kan gi bendestruksjon med dehisens av buegang med eller uten fistel og perilymfelekkasje. Trykkendring vil kunne gi økt lekkasje som fører til økt hørselstap og vertigo. Se også kapittelet om [buegangsdehiscens](#sec-buegangsdehiscens).\
+**Anamnese:** *Debut:* Akutt. Utløst av relevant traume eller i forløpet av kronisk otitt. *Tidsforløp:*Fluktuerende, eventuelt med gradvis bedring. *Svimmelhetens karakter:* Rotatorisk eller nautisk vertigo. Oscillopsi. *Utløsende faktorer:* Trykk, Valsalva, bukpress, lyder, løft, fysisk aktivitet, gange. *Ledsagende symptomer:* Hørselstap, tinnitus, falltendens. Otorré.\
+**Kliniske funn:** *Stemmegaffelprøver:* Nevrogent og/eller mekanisk hørselstap. *Fistelprøver (Politzer-ballong, tragustrykk, valsalva):* Vertigo og nystagmus i plan med affisert buegang (lav sensitivitet). *Otomikroskopi:* Eventuelt otitt med cholesteatom. *Øvrige:* Eventuelt falltendens. Patologisk hodeimpulstest (mindre vanlig).\
+**Supplerende undersøkelser:** *Audiometri:* Nevrogent og/eller mekanisk hørselstap. *CT av tinningben:*Indisert for å påvise eventuell bendestruksjon, labyrintfistel eller dehisens. *Elektrokokleografi:* Økt summasjonspotensiale.\
+**Diagnose:** Diagnosen kan styrkes ved supplerende undersøkelser og vanligvis påvises eller avkreftes ved eksplorativ tympanotomi. Negativ fistelprøve utelukker ikke fistel. Det finnes ingen etablerte diagnostiske kriterier, men klinisk mistanke kan baseres på følgende:
+
+::: diagnose
+*Klinisk mistanke om perilymfatisk fistel (A-D oppfylt):*
+
+A.  Akutt oppstått vertigo og hørselstap i forbindelse med adekvat traume (se etiologi)
+B.  Audiometrisk bekreftet nevrogent hørselstap på det aktuelle øret
+C.  Vertigo senere utløst av trykkendringer (valsalva, bukpress)
+D.  Ikke bedre forklart av annen vestibulær diagnose.
+:::
+
+**Mål for behandling:** Forebygge og behandle hørselstap og vertigo.\
+**Behandling:** *Barotraume:* Ved mistanke om trykkfallsyke behandles med rekomprimering. Videre behandling som nedenfor. *Buegangsfistel forårsaket av cholesteatom:* Mastoidektomi med ekstirpasjon av cholesteatom og lukning av fistel. *Fistel etter stapeskirurgi:* Eventuelt konservativ behandling initialt med sengeleie, lett elevert hodeende og forbud mot pressing. Ved progresjon eksplorasjon av mellomøret og lukking av fistel. *Annen traumatisk eller spontan fistel:* Eventuelt konservativ behandling initialt, men ved progresjon anbefales eksplorasjon og lukning av fistel.\
+**Prognose:** Tidlig kirurgisk intervensjon ved sikker fistel synes å kunne bedre prognosen når det gjelder vertigo og hørselstap. Prognosen er oftest god når det gjelder vertigo, men bestående hørselstap er vanlig [@Møller2001].

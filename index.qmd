@@ -1,0 +1,49 @@
+## Velkommen {#sec-velkommen}
+
+Dette er en lærebok i utredning og behandling av pasienter med vestibulære sykdommer. Boken er ment å kunne brukes av alle typer helsepersonell, både for rask tilgang til faktaopplysninger i en travel hverdag og til fordypning når du har litt tid til overs.
+
+*Vestibulære sykdommer* er sykdommer som påvirker likevektssansen og gir symptomer som svimmelhet og dårlig balanse. Disse sykdommene behandles av mange grupper helsepersonell og av leger innen flere etablerte spesialiteter. Det er likevel først i de senere år at man har begynt å se på disse tilstandene samlet og definere dem som en viktig sykdomsgruppe som krever høy, tverrfaglig kompetanse. Dette skyldes ikke minst det faktum at svimmelhet og dårlig balanse er svært vanlige helseplager i befolkningen, noe som tydelig fremgår av grafene nedenfor.
+
+!["Svimmelhet eller dårlig balanse. Plaget siste 3 måneder". Selvrapporterte plager i den norske befolkningen. Levekårsundersøkelsen, Statistisk sentralbyrå (<https://www.ssb.no>)](images/ssb.png){style="padding:20px;"}
+
+## Forord til første utgave {#sec-forord}
+
+Det finnes knapt noe symptom som setter legens basale kliniske ferdigheter på større prøve enn følelsen av å være svimmel. Det er en subjektiv, udefinerbar følelse som har mange årsaker. Avanserte undersøkelsesmetoder er til begrenset nytte, og det er ingen umiddelbare utsikter til at det vil bli oppfunnet en diagnostisk hurtigtest. Til gjengjeld kan man komme svært langt med enkle hjelpemidler som anamnese og klinisk undersøkelse. Våre kunnskaper om årsakene til svimmelhet er i rask utvikling. Ved å bruke metodene i denne håndboken vil du tilegne deg de grunnleggende ferdighetene som kreves for å behandle pasientene på en god måte. Det er vårt håp at du etter hvert vil oppdage, slik vi har gjort, at svimmelhet både kan være overraskende enkelt å diagnostisere og takknemlig å behandle. Du vil ikke slippe opp for pasienter. Andelen nordmenn som sier de har hatt svimmelhet eller balanseproblemer siste 3 måneder har holdt seg stabilt på 10 % i de senere år.
+
+Håndboken er delt inn i fire hoveddeler. Del 1 gir en kort innføring i anatomi, fysiologi og patofysiologi. Del 2 tar for seg konsultasjonen med anamnese, klinisk undersøkelse og generelle prinsipper for behandling. Best resultat oppnås ved å innarbeide gode rutiner fra starten. Det anbefales å benytte et skjema for strukturert anamneseopptak og trene på teknikkene for undersøkelse av det vestibulære systemet, slik som nystagmusprøver, Dix-Hallpikes manøver og hodeimpulstest. Del 3 er en temadel som tar for seg noen aktuelle kliniske problemstillinger. Del 4 består av korte diagnosekapitler og er ment for oppslag.
+
+Svimmelhet er som skogsopp. Det finnes mange varianter, og de kan værevanskelige å skille fra hverandre. Man bør kjenne til de vanligste typene, men også kunne plukke ut de farlige. Når man skal lære seg å kjenne igjen de ulike sykdommene anbefales det å konsentrere seg om noen få diagnoser til å begynne med, særlig de som er vanlige, som [benign paroksysmal posisjonsvertigo](https://www.balanselaboratoriet.no/bookdown/_book/BPPV.html#BPPV), [vestibularisnevritt](https://www.balanselaboratoriet.no/bookdown/_book/vestibularisnevritt.html#vestibularisnevritt) og [ortostatisk svimmelhet](https://www.balanselaboratoriet.no/bookdown/_book/ortostatisk-svimmelhet.html#ortostatisk-svimmelhet), eller de som kan være alvorlige, som kardiogen svimmelhet eller hjerneslag.
+
+Pasienter med nyoppstått akutt vertigo skal undersøkes snarest. Det er flere gode grunner til dette. For det første er det viktig å oppdage alvorlig sykdom som trenger øyeblikkelig hjelp. For det andre er det betydelig lettere å stille rett diagnose i akuttfasen enn i ettertid. Symptombeskrivelsen er mer pålitelig, og det vil være flere og mer spesifikke kliniske funn. Fravær av objektive funn kan også ha stor betydning i akuttfasen. Dersom du av praktiske grunner velger å utsette undersøkelsen, er sannsynligheten stor for at du vil bruke lengre tid og få en mer usikker diagnose. Pasienter glemmer viktige momenter fra akuttfasen og blander dem sammen med foregående eller påfølgende hendelser. Objektive funn forsvinner. Mange pasienter bekymrer seg i ventetiden før undersøkelsen. Sekundære plager gjør sykehistorien mer komplisert og sammensatt.
+
+Det er viktig å sette av nok tid til pasienten. 30 minutter er vanligvis nok til første gangs konsultasjon, men dette krever at tiden benyttes effektivt til anamnese, klinisk undersøkelse, rådgivning og dokumentasjon. Hastverk lønner seg ikke, da man oftest ender opp med å bruke mer tid på gjentatte kontroller senere. Er jobben først gjort skikkelig én gang, trenger den ikke å gjentas.
+
+Denne håndboken er blitt til takket være støtte fra stiftelsen Helse og rehabilitering og fra Øre-nese-halsavdelingen ved Haukeland universitetssykehus. Flere eksperter har bidratt med faglige innspill til tekstene, inkludert øre-nese-halslegene Per Møller, Stein Helge Glad Nordahl og Krister Brantberg, geriater Anette Hylen Ranhoff og nevrokirurg Erling Myrseth.
+
+Frederik Goplen\
+Nasjonalt kompetansesenter for vestibulære sykdommer\
+Bergen 2009
+
+![](images/busch.jpg)
+
+At posisjonsvertigo kan utløses av alkohol har lenge vært kjent.\
+Kilde: Busch W. Fliegende Blätter und Münchner Bilderbogen 1859 - 1864.\
+<https://www.zeno.org>
+
+## Kolofon
+
+Dette er en digitalisert, revidert og utvidet utgave av boken Svimmelhet - Diagnostikk og behandling som første gang ble publisert i 2009.
+
+ISBN 978-82-991877-7-0 (trykt)
+
+ISBN 978-82-991877-9-4 (PDF)
+
+Første utgave ble publisert som del av prosjektet En vei ut av svimmelheten med støtte fra Øre-nese-halsavdelingen ved Haukeland universitetssykehus og Stiftelsen Helse og Rehabilitering gjennom midler fra TV-spillet Extra.
+
+Prosjektleder: Frederik Kragerud Goplen
+
+Styringsleder: Stein Helge Glad Nordahl
+
+Illustrasjoner: Frederik Kragerud Goplen, Atle Hansson (forsidebilde: "vertigokvartetten") og Thor André Ellingsen (foto)
+
+Denne reviderte utgaven er skrevet ved hjelp av [Quarto](https://quarto.org), [R](https://www.r-project.org) og [RStudio](https://posit.co/download/rstudio-desktop/).

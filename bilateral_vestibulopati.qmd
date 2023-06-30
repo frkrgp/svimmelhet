@@ -1,0 +1,44 @@
+## Bilateral vestibulopati {#sec-bilateral}
+
+**ICD-10:** Andre spesifiserte forstyrrelser i vestibularisfunksjonen (H81.8). Følgetilstand etter bivirkning av legemiddel eller biologisk stoff gitt i terapeutiske doser (Y88.0)\
+**ICD-11:** Chronic bilateral vestibulopathy (AB32.5)\
+**Synonymer:** Bilateral vestibulær skade, eng. bilateral vestibular loss\
+**Forekomst:** Ukjent. Uvanlig, men mulig underdiagnostisert.\
+**Etiologi:** Idiopatisk (ca. 50 %). Øvrige: Aminoglykosider (hyppigst), aldersbetinget, nevrofibromatose type II, Menières sykdom, meningitt.\
+**Patogenese:** Avhenger av årsak: Bilateral ototoksisk skade av aminoglykosider eventuelt potensiert av sløyfediuretika. Aldersbetinget degenerasjon av det indre øret, eventuelt kombinert med sentral ataksi.\
+**Anamnese:** *Debut og tidsforløp:* Avhengig av årsak: Akutt (aminoglykosidskade, meningitt), anfallsvis (Menières sykdom), gradvis progredierende (alder, nevrofibromatose). *Svimmelhetens karakter:* Oscillopsi, kronisk ustøhet. *Utløsende faktorer:* Ustøhet forverres i mørke, ved tretthet og ved raske hodebevegelser. *Ledsagende symptomer:* Avhengig av årsak: Hørselstap, tinnitus, cerebellar ataksi.\
+**Kliniske funn:** Ustøhet ved gange på linje og skjerpet Romberg. Fravær av normal nystagmus ved hoderotasjon. Patologisk hodeimpulstest til begge sider.\
+**Supplerende undersøkelser:** *Kalorisk prøve (evt med isvann):* Utslukket eller minimal respons på begge sider. *Audiometri:* For å påvise eventuell hørselsaffeksjon. *Rotasjonsstol:* Fraværende vestibulookulær refleks eller minimal respons til begge sider. *Videobasert hodeimpulstest:* Patologisk redusert gain ved stimulering av alle 6 bueganger. *VEMP (cervikal og okulær):* Utslukket på begge sider. *MR:* Indisert for å avdekke bl.a. vestibulært schwannom eller lillehjernepatologi.\
+**Diagnose:** Følgende er en norsk oversettelse av diagnostiske kriterier publisert av [@Strupp2017]:
+
+::: diagnose
+*Kriterier for bilateral vestibulopati (A-D oppfylt)*
+
+A.  Kronisk vestibulært syndrom med minst 3 av følgende symptomer
+    -   Ustøhet i oppreist stilling
+    -   Ustødig gange
+    -   Uklart syn eller oscillopsi utløst av hodebevegelser ved gange eller raske bevegelser av hode/kropp
+    -   Ustøhet i oppreist stilling eller ustødig gange forverres i mørke og/eller på ujevnt underlag
+B.  Ingen symptomer når pasienten sitter eller ligger stille
+C.  Bilateralt redusert eller utslukket angulær VOR dokumentert ved...
+    -   Bilateralt patologisk horisontal angulær VOR gain \< 0,6 målt med video-HIT eller skleral søkespole-teknikk og/eller
+    -   Redusert kalorisk respons (sum av bitermal maksimal hastighet på langsom fase av nystagmus på begge sider \< 6 grader/sekund) og/eller
+    -   Redusert horisontal angulær VOR gain \< 0,1 ved sinusoid stimulering i rotasjonsstol (0,1 Hz, Vmax 50 grader/sekund)
+D.  Ikke bedre forklart av annen sykdom
+
+*Kriterier for sannsynlig bilateral vestibulopati (A-D oppfylt)*
+
+A.  Kronisk vestibulært syndrom med minst 2 av følgende symptomer
+    -   Ustøhet i oppreist stilling
+    -   Ustødig gange
+    -   Uklart syn eller oscillopsi utløst av hodebevegelser ved gange eller raske bevegelser av hode/kropp
+    -   Ustøhet i oppreist stilling eller ustødig gange forverres i mørke og/eller på ujevnt underlag
+B.  Ingen symptomer når pasienten sitter eller ligger stille
+C.  Bilateralt patologisk horisontal hodeimpulstest (bedside)
+D.  Ikke bedre forklart av annen sykdom
+:::
+
+**Ansvarsfordeling:** Ved klinisk mistanke er både øre-nese-halsundersøkelse og nevrologisk utredning indisert.\
+**Mål for behandling:** Å forkorte sykdomsforløpet og forebygge kronisk svimmelhet. Oppnå best mulig funksjon med eventuelle restsymptomer.\
+**Behandling:** Tidlig seponering av aminoglykosider ved tegn til ototoksisitet anbefales, men er ikke bevist å forhindre skade. Vekt på forebygging gjennom anamnese på familiært hørselstap før behandlingsstart og å unngå samtidig behandling med sløyfediuretika. Informere pasienten om tilstanden og betydningen av egeninnsats for opptrening av balansefunksjon. Oppfølgning av fysioterapeut/balanseterapeut er sterkt ønskelig. Tilstanden kan kreve langvarig rehabilitering.\
+**Prognose:** Vedvarende restsymptomer i form av oscillopsi og redusert balanse må påregnes. Prognosen er noe bedre ved aminoglykosidskade enn ved andre årsaker. Tilstanden har tendens til å progrediere hos eldre med idiopatisk bilateral vestibulopati.

@@ -1,0 +1,7 @@
+## Hjerneslag og svimmelhet {#sec-hjerneslag}
+
+Synkope og svimmelhet er symptomer som vanligvis taler for andre diagnoser enn hjerneslag, men det er noen viktige unntak:
+
+Et [lillehjerneinfarkt](#sec-lillehjerneinfarkt) i forsyningsområdet til arteria cerebelli inferior posterior (ACIP) kan debutere med isolert vertigo, kvalme, oppkast, falltendens og nystagmus. Bildet kan være vanskelig å skille fra [vestibularisnevritt](#sec-vestibularisnevritt). Patologisk hodeimpulstest taler for perifer årsak.
+
+Et hjernestammeinfarkt i forsyningsområdet til arteria cerebelli inferior anterior (ACIA) kan debutere med vertigo og hørselstap. Arterien til det indre øret (a. labyrinthi) går ofte av fra ACIA, og det kan samtidig foreligge multiple infarkter i bakre skallegrop.

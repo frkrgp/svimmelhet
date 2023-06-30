@@ -1,0 +1,305 @@
+## Klassifikasjon {#sec-klassifikasjon}
+
+Antakelig er det få leger som føler at klassifikasjon og koding av sykdommer er det mest meningsfulle de gjør. Diagnosen er likevel konklusjonen på en utredning som pasient og henviser i mange tilfeller har ventet lenge på. Det er derfor trist når pasienter etter omfattende undersøkelser i spesialisthelsetjenesten kommer ut med en diagnose som *R42 svimmelhet*. Dette gir et feilaktig inntrykk av at man ikke vet noe om årsaken til symptomene eller hvordan de kan behandles. Ved å sette seg inn i klassifikasjonen av de vestibulære sykdommene og bruke de mulighetene som finnes til å sette en mer presis etiologisk eller deskriptiv diagnose, kan man gi en bedre veiledning både til pasient og henviser. Samtidig bidrar man til egen læring så vel som til kunnskapsutviklingen i fagfeltet ved at offentlig tilgjengelig statistikk over forekomsten av de ulike tilstandene blir mer pålitelig.
+
+## Vestibulære sykdommer
+
+I ICD-10 er de vestibulære sykdommene, med noen få unntak, klassifisert under kodene H81.0 til H81.9. I ICD-11 er de fleste av de vestibulære sykdommene fordelt i tre grupper kalt akutte, episodiske og kroniske vestibulære syndromer. Denne inndelingen er er praktisk, selv om overgangene noen ganger kan være flytende. ICD-11 inkluderer flere nye diagnoser og er et viktig fremskritt innen feltet.
+
+### Akutt vestibulært syndrom {#sec-akutt}
+
+Akutt vestibulært syndrom er en fellesbetegnelse på tilstander som gir akutt svimmelhet. Den praktiske verdien av å samle disse tilstandene under ett er at pasienten som regel må vurderes som øyeblikkelig hjelp, særlig fordi akutt svimmelhet kan skyldes hjerneinfarkt eller -blødning. Svimmelhetssymptomene er gjerne uvanlig kraftige (for pasienten) og vedvarer selv om pasienten ligger helt i ro. Dette er definert på følgende måte i [ICD-11](https://icd.who.int/browse11/l-m/en):
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| A clinical syndrome of acute-onset, continuous vertigo, dizziness, or unsteadiness lasting days to weeks, and generally including features suggestive of new, ongoing vestibular system dysfunction (e.g., vomiting, nystagmus, severe postural instability). There may also be symptoms or signs suggesting cochlear or central nervous system dysfunction. Acute vestibular syndrome usually connotes a single, monophasic event, often caused by a one-time disorder, but it may instead punctuate a relapsing-and-remitting or stepwise, progressive illness course. Disorders typically presenting this syndrome include vestibular neuritis, acute labyrinthitis, traumatic vestibulopathy, demyelinating disease with vestibular involvement, and strokes affecting central or peripheral vestibular structures. |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -   **10** Diseases of the ear or mastoid process                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|     -   **AB30** Acute vestibular syndrome                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|         -   **AB30.0** Vestibular neuritis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|         -   **AB30.1** Labyrinthitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|         -   **AB30.Y** Other specified acute vestibular syndrome, e.g. Acute vestibular syndrome due to acute attack of episodic vestibular disorder                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|         -   **AB30.Z** Acute vestibular syndrome, unspecified                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Acute vestibular syndrome (ICD-11)
+
+Et poeng å merke seg er at diagnosen akutt vestibulært syndrom vanligvis brukes midlertidig, inntil man kan stille en mer presis etiologisk diagnose, som f.eks. vestibularisnevritt eller hjerneinfarkt.
+
+### Episodisk vestibulært syndrom {#sec-episodisk}
+
+Episodisk vestibulært syndrom er fellesbetegnelsen på tilstander som gir gjentatte, likeartede episoder med svimmelhetssymptomer. Disse tilstandene har det til felles at opplysninger om episodenes varighet, utløsende faktorer (triggere) og ledsagende symptomer ofte kan gi nyttig diagnostisk informasjon som gjør at anfallene kan behandles eller forebygges.
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| A clinical syndrome of transient vertigo, dizziness, or unsteadiness lasting seconds to hours, occasionally days, and generally including features suggestive of temporary, short-lived vestibular system dysfunction (e.g., nausea, nystagmus, sudden falls). There may also be symptoms or signs suggesting cochlear or central nervous system dysfunction. Episodic vestibular syndrome usually connotes multiple, recurrent events caused by an episodic disorder with repeated spells (triggered or spontaneous), but may initially present after the first event. |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| -   **10** Diseases of the ear or mastoid process                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|     -   **AB31** Episodic vestibular syndrome                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|         -   **AB31.0** Meniere disease                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|         -   **AB31.1** Vestibular migraine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|         -   **AB31.2** Benign positional paroxysmal vertigo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|         -   **AB31.3** Superior canal dehiscence syndrome                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|         -   **AB31.4** Disembarkment syndrome                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|         -   **AB31.5** Autoimmune inner ear disease                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|         -   **AB31.6** Vestibular paroxysmia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|         -   **AB31.7** Vertiginous syndromes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|         -   **AB31.Y** Other specified episodic vestibular syndrome, e.g. Episodic vestibular syndrome due to orthostatic hypotension                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|         -   **AB31.Z** Episodic vestibular syndrome, unspecified                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Episodic vestibular syndrome (ICD-11)
+
+Det er interessant å merke seg at denne kategorien er plassert i øre-kapittelet, selv om den også inneholder non-otogene tilstander som vestibulær migrene, ortostatisk svimmelhet og landgangssyke (disembarkment syndrome). Migrene kan også kodes under kapittelet for nevrologiske sykdommer.
+
+### Kronisk vestibulært syndrom {#sec-kronisk}
+
+Kronisk vestibulært syndrom er betegnelsen på tilstander som gir vedvarende svimmelhetssymptomer. Man kaller vanligvis symptomene kroniske når de har vart i mer enn tre måneder og vært til stede mer enn halvparten av dagene. Pasienter med kronisk vestibulært syndrom har ofte nytte av behandling med vestibulær rehabilitering uavhengig av hva som er årsaken til symptomene, og behandlingen er ofte langsiktig.
+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| A clinical syndrome of chronic vertigo, dizziness, or unsteadiness lasting months to years and generally including features suggestive of persistent vestibular system dysfunction (e.g., oscillopsia, nystagmus, gait unsteadiness). There may also be symptoms or signs suggesting cochlear or central nervous system dysfunction. Chronic vestibular syndrome often connotes a progressive, deteriorating course, but sometimes instead reflects a stable, incomplete recovery after an acute vestibular event, or persistent, lingering symptoms between episodic vestibular events. |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -   **10** Diseases of the ear or mastoid process                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|     -   **AB32** Chronic vestibular syndrome                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|         -   **AB32.0** Persistent Postural-Perceptual Dizziness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|         -   **AB32.1** Chronic unilateral idiopathic vestibulopathy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|         -   **AB32.2** Persistent unilateral vestibulopathy after vestibular neuronitis                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|         -   **AB32.3** Unilateral vestibulopathy due to schwannoma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|         -   **AB32.4** Unilateral vestibulopathy after medical intervention                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|         -   **AB32.5** Chronic bilateral vestibulopathy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|         -   **AB32.Y** Other specified chronic vestibular syndrome                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|         -   **AB32.Z** Chronic vestibular syndrome, unspecified                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Chronic vestibular syndrome (ICD-11)
+
+Merk at vestibularisnevritt kan kodes under akutt og kronisk vestibulært syndrom avhengig av om pasienten befinner seg i akutt eller kronisk fase av sykdommen.
+
+### Andre vestibulære sykdommer
+
+Noen vestibulære sykdommer er av ulike grunner fortsatt holdt utenfor klassifikasjonen av de vestibulære syndromene. Andre sykdommer dukker opp flere steder under ulike overskrifter. En mulig årsak kan være at enkelte sykdommer logisk kan høre inn under flere medisinske spesialiteter, og at man har ønsket å åpne for at ulike spesialister kan kode på den måten de selv finner mest naturlig.
+
+Noen ganger blir dette åpenbart forvirrende, særlig ved tilstanden bilateral vestibulopati, som kodes forskjellig avhengig om den er "kronisk" eller "idiopatisk". Det kan også være forvirrende at diagnosen vestibulær migrene kodes sammen med øresykdommene og ikke sammen med migrenetilstandene i nevrologikapittelet. En fornuftig løsning på dette kan være å forholde seg til hovedårsaken til at pasienten kommer til undersøkelse og behandling. Hvis svimmelhet er den primære kontaktårsaken, bør diagnosen fortrinnsvis kodes innenfor de vestibulære syndromene, dvs. AB30 - AB32.
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| De etiologiske diagnosene er mest relevante, som vestibularisschwannom, labyrintfistel, hjerneblødning, TIA, hjerneinfarkt og migrene. De uspesifikke kodene bør stort sett unngås, hvis problemstillingen er svimmelhet eller ustøhet og man kan finne bedre alternativer innenfor de vestibulære syndromene (AB30-AB32). |
+|                                                                                                                                                                                                                                                                                                                            |
+| -   **10** Diseases of the ear or mastoid process                                                                                                                                                                                                                                                                          |
+|     -   **AB34** Disorders of vestibular function                                                                                                                                                                                                                                                                          |
+|         -   **AB32.0** Idiopathic bilateral vestibulopathy                                                                                                                                                                                                                                                                 |
+|         -   **AB32.1** Other peripheral vertigo                                                                                                                                                                                                                                                                            |
+|         -   **AB32.Y** Other specified disorders of vestibular function                                                                                                                                                                                                                                                    |
+|         -   **AB32.Z** Disorders of vestibular function, unspecified                                                                                                                                                                                                                                                       |
+|     -   **AB35** Labyrinthine fistula                                                                                                                                                                                                                                                                                      |
+|     -   **AB36** Labyrinthine dysfunction                                                                                                                                                                                                                                                                                  |
+| -   **08** Diseases of the nervous system                                                                                                                                                                                                                                                                                  |
+|     -   **8A80** Migraine                                                                                                                                                                                                                                                                                                  |
+|         -   **8A80.0** Migraine without aura                                                                                                                                                                                                                                                                               |
+|         -   **8A80.1** Migraine with aura                                                                                                                                                                                                                                                                                  |
+|         -   **8A80.Y** Other specified migraine \[incl. benign paroxysmal vertigo of childhood\] \|                                                                                                                                                                                                                        |
+|     -   **8B00** Intracerebral haemorrhage                                                                                                                                                                                                                                                                                 |
+|     -   **8B10** Transient ischaemic attack                                                                                                                                                                                                                                                                                |
+|     -   **8B11** Cerebral ischaemic stroke                                                                                                                                                                                                                                                                                 |
+| -   **02** Neoplasms                                                                                                                                                                                                                                                                                                       |
+|     -   **2A02.3** Benign neoplasm of cranial nerves \[incl. vestibular schwannoma\]                                                                                                                                                                                                                                       |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Andre relevante koder (ICD-11)
+
+## Symptomdiagnoser {.unnumbered}
+
+Det er alltid en fordel å kunne fastslå den underliggende årsaken til et sykdomsbilde. I mange tilfeller er imidlertid årsaken ukjent, og det er da mulig å bruke en symptomdiagnose. I primærhelsetjenesten brukes kodesystemet ICPC-2, som har to koder for svimmelhetsproblematikk. Disse overlapper hverandre til en viss grad. Når årsaken til svimmelhetssymptomene er ukjent kan man kode basert på om det foreligger rotatorisk vertigo eller ikke.
+
+::: icd11
+**WHO International Classification of Primary Care (**[ICPC-2](https://finnkode.ehelse.no/#icpc/0/0/0/2854467))
+
+::: niv1
+**N17** Svimmelhet IKA
+:::
+
+::: niv2
+Inkl: Følelse av å besvime, tap av balanse, ustøhet, ør
+:::
+
+::: niv2
+Ekskl: Bevegelsessyke, svimmelhetssyndrom, synkope
+:::
+
+::: niv1
+**H82** Svimmelhetssyndrom
+:::
+
+::: niv2
+Inkl: Forstyrrelse i vestibularisfunksjonen, BPPV, labyrintitt, Menières sykdom.
+:::
+
+::: niv2
+Kriterium: Svimmelhet av rotasjonstype
+:::
+:::
+
+\
+
+I spesialisthelsetjenesten brukes kodesystemet ICD-10, som er mindre detaljert enn ICPC, men bygget opp på lignende måte. Også her finnes det mulighet for å stille en symptomdiagnose.
+
+::: icd11
+**WHO International Classification of Diseases (**[ICD-10](https://finnkode.ehelse.no/#icd10/0/0/0/2600813))
+
+::: niv1
+**R42** Svimmelhet INA
+:::
+
+::: niv2
+Inkl: Ørhet
+:::
+
+::: niv2
+Ekskl: Svimmelhetssyndromer
+:::
+
+::: niv1
+**H81.9** Uspesifisert forstyrrelse i vestibularisfunksjonen
+:::
+:::
+
+ 
+
+I ICD-11 er antallet symptomdiagnoser utvidet betydelig. Det kan kodes både for svimmelhetens karakter og for tidsforløpet.
+
+::: icd11
+**WHO International Classification of Diseases (**[ICD-11](https://icd.who.int/browse11/l-m/en))
+
+::: niv1
+**21** Symptoms, signs or clinical findings not elsewhere classified
+:::
+
+::: niv2
+**MB48** Dizziness and giddiness
+:::
+
+::: niv3
+**MB48.0** Vertigo
+:::
+
+::: niv3
+**MB48.1** Disorder equilibrium
+:::
+
+::: niv3
+**MB48.2** Exertional dizziness
+:::
+
+::: niv3
+**MB48.3** Light-headedness
+:::
+
+::: niv3
+**MB48.4** Presyncope
+:::
+
+::: niv3
+**MB48.Y** Other specified dizziness and giddiness
+:::
+
+::: niv3
+**MB48.Z** Dizziness and giddiness, unspecified
+:::
+
+::: niv1
+**10** Diseases of the ear or mastoid process
+:::
+
+::: niv2
+**AB3**Diseases of the inner ear
+:::
+
+::: niv3
+**AB30.Z** Acute vestibular syndrome, unspecified
+:::
+
+::: niv3
+**AB31.Z** Episodic vestibular syndrome, unspecified
+:::
+
+::: niv3
+**AB32.Z** Chronic vestibular syndrome, unspecified
+:::
+:::
+
+ 
+
+I Den internasjonale klassifikasjonen av vestibulære sykdommer (ICVD) skilles det mellom fire hovedgrupper av vestibulære symptomer.
+
+::: icd11
+**International Classification of Vestibular Disorders (**[ICVD](http://www.ncbi.nlm.nih.gov/pubmed/19893191))
+
+::: niv1
+**1** (Internal) vertigo
+:::
+
+::: niv2
+*Definition:* (Internal) vertigo is the sensation of self-motion when no self-motion is occurring or the sensation of distorted self-motion during an otherwise normal head movement. This "internal" vestibular sensation is distinguished from the "external" visual sense of motion referred to in this classification as either external vertigo or oscillopsia (see 3. Vestibulo-visual symptoms). For simplicity, the unmodified term "vertigo" will mean, by default, "internal vertigo." The term encompasses false spinning sensations (spinning vertigo) and also other false sensations like swaying, tilting, bobbing, bouncing, or sliding (non-spinning vertigo).
+:::
+
+::: niv2
+*Subtypes:* spontaneous, head-motion vertigo, visually-induced vertigo, sound-induced vertigo, Valsalva-induced vertigo, orthostatic vertigo, other triggered vertigo
+:::
+
+::: niv1
+**2** Dizziness
+:::
+
+::: niv2
+*Definition:* (Non-vertiginous) dizziness is the sensation of disturbed or impaired spatial orientation without a false or distorted sense of motion.
+:::
+
+::: niv2
+*Subtypes:* spontaneous, head-motion dizziness, visually-induced dizziness, sound-induced dizziness, Valsalva-induced dizziness, orthostatic dizziness, other triggered dizziness
+:::
+
+::: niv1
+**3** Vestibulo-visual symptoms
+:::
+
+::: niv2
+*Definition:* Vestibulo-visual symptoms are visual symptoms that usually result from vestibular pathology or the interplay between visual and vestibular systems. These include false sensations of motion or tilting of the visual surround and visual distortion (blur) linked to vestibular (rather than optical) failure.
+:::
+
+::: niv2
+*Subtypes:* external vertigo, oscillopsia, visual lag, visual tilt, movement-induced blur
+:::
+
+::: niv1
+**4** Postural symptoms.
+:::
+
+::: niv2
+*Definition:* Postural symptoms are balance symptoms related to maintenance of postural stability, occurring only while upright (seated, standing, or walking)
+:::
+
+::: niv2
+*Subtypes:* unsteadiness, directional pulsion, balance-associated near fall, balance-associated fall
+:::
+:::
+
+ 
+
+I ICVD valgte man å ikke inkludere symptomer som ofte ledsager vestibulære sykdommer, som f.eks. kvalme og brekninger. Den diagnostiske relevansen av de ovennevnte symptominndelingene er usikker. Beskrivelsen av f.eks. vertigo kan ikke alene tillegges avgjørende diagnostisk betydning. En studie av pasienter innlagt med akutt svimmelhet i USA viste stor inkonsistens i beskrivelsene av svimmelhet. Blant annet var det kun 30 % av pasientene med rotatorisk svimmelhet (vertigo or spinning) som fortsatt anga denne typen svimmelhet når de ble spurt en gang til bare få minutter senere [@Newman-Toker2007].
+
+Arbeidet med ICVD viste at definisjonene av vertigo og svimmelhet var kontroversielle, og at det var forskjeller i språkbruken i ulike land. I noen land var det naturlig å definere vertigo som en undertype av svimmelhet. I andre land var det naturlig å skille skarpere mellom disse opplevelsene. Sistnevnte inndeling vant fram, men man valgte likevel å lage de samme undergruppene både for svimmelhet og vertigo, slik at de i praksis kunne brukes om hverandre.
+
+Skillet mellom svimmelhet og vertigo skal altså ikke tillegges for stor vekt. Likevel er det stereotype symptombildet ("[vertigokvartetten](#sec-vertigokvartetten)") med kombinasjonen av vertigo (rotatorisk eller nautisk), kvalme (og særlig brekninger), ustøhet og nystagmus utvilsomt karakteristisk for mange av de vestibulære sykdommene .
+
+Andre ledsagende symptomer kan tale for årsaker i andre deler av hjernen eller i andre organsystemer. Dette gjelder for eksempel hodepine, synsforstyrrelser og ensidige utfall, som peker mot nevrologisk sykdom eller nærsynkope og synkope, som ofte skyldes sirkulatoriske årsaker.
+
+## Konsensusarbeid
+
+Det arbeides internasjonalt for å etablere konsensus om klassifikasjonen av de vestibulære sykdommene. Noen av de viktigste aktørene er:
+
+-   **Verdens helseorganisasjon (WHO)**\
+    Ansvarlig for *The International Classification of Diseases* som er gjeldende system i Norge for koding av diagnoser i spesialisthelsetjenesten (ICD-10). En grundig revidert utgave ble publisert i 2018 ([ICD-11](https://icd.who.int)) og inneholder en rekke nye koder for vestibulære sykdommer samt forbedrede sykdomsdefinisjoner. ICD-11 er foreløpig ikke tatt i bruk i Norge.
+
+-   **Classification Committee of the Bárány Society (CCBS)**\
+    Ansvarlig for *The International Classification of Vestibular Disorders* ([ICVD](http://www.jvr-web.org/ICVD.html)). Gruppen har i samarbeid med ulike andre internasjonale fagorganisasjoner publisert flere artikler med diagnostiske kriterier for vestibulære sykdommer samt klassifikasjonssystemer for vestibulære symptomer.
+
+-   **American Academy of Otolaryngology --- Head and Neck Surgery (AAO-HNS)** har publisert retningslinjer og diagnostiske kriterier for flere vestibulære sykdommer, inkludert Menières sykdom [@Goebel2016; @CommitteeonHearingandEquilibrium1995] og BPPV.
+
+-   **Japan Society for Equilibrium Research** har publisert diagnostiske kriterier for Menières sykdom, og nylig også for BPPV.

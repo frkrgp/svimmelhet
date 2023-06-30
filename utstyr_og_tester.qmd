@@ -1,0 +1,47 @@
+# Utstyr og tester {#sec-utstyr_og_tester}
+
+Her gjennomgås det vanligste utstyret og noen av metodene for å undersøke balanse, vestibularisfunksjon og øyebevegelser.
+
+## Bartels' brille
+
+Oppkalt etter den tyske legen Martin Bartels. Spesialbrille med høy brytningskraft (+20 dioptrier), egnet som enkelt hjelpemiddel for å visualisere nystagmus.
+
+![Bartels' brille oppkalt etter den tyske legen Martin Bartels (1874-1947)](images/Bartels_brille.jpg){style="padding:40px;"}
+
+## Frenzels brille
+
+Briller med høy brytningskraft (+20 dioptrier) og innlagt lys for visualisering av nystagmus. Finnes med batterier i ulike håndgrep. Oppkalt etter den tyske legen Hermann Frenzel (1895-1967).
+
+![Frenzels brille med batterigrep](images/frenzel.jpg){style="padding:40px;"}
+
+## Video-Frenzel
+
+Maske med infrarøde videokameraer for visualisering av nystagmus i mørke. Video-Frenzel gjør det mulig å se en svak nystagmus både fordi nystagmus blir sterkere i mørke og fordi øynene blir forstørret opp på videoskjerm. Video-Frenzel er i dag mye brukt både i og utenfor sykehus av spesialister som vurderer pasienter med svimmelhet. Det er viktig å være klar over at den høye sensitiviteten gjør at man også ofte finner nystagmus-lignende øyebevegelser som ikke har klinisk betydning. Det krever erfaring å tolke disse øyebevegelsene. For eksempel viser en studie at 88 % av friske forsøkspersoner har posisjonsnystagmus i en eller flere hodestillinger ved undersøkelse i biaksial rotasjonsstol (Martens og medarbeidere).
+
+![Video-frenzel er en lysokkluderende maske med infrarøde videokameraer som muliggjør videoopptak av nystagmus i mørke](images/videofrenzel.jpg){style="padding:40px;"}
+
+## Videonystagmografi
+
+Videonystagmografi er måling av øyebevegelser i mørke ved hjelp av infrarøde videokamereaer. Denne metoden har i stor grad erstattet elektronystagmografi, som tidligere var den mest benyttede metoden for slike målinger.
+
+Verdien av videonystagmografi er at metoden gjør det mulig å få ut en kurve - et nystagmogram - som viser øyets posisjon (i grader fra midtpunktet) over tid. Nystagmus vil på en slik kurve fremkomme som et sagtannmønster eller som en bølge (pendulerende nystagmus). Metoden kan også måle hastigheten på den langsomme fasen av nystagmus, hvilket er særlig nyttig i forbindelse med kalorisk prøve.
+
+## Stemmegaffel
+
+En stemmegaffel med frekvens 256 Hz er et viktig hjelpemiddel i undersøkelsen av pasienter med akutt vestibulært syndrom, særlig når det er mistanke om at svimmelhetssymptomene kan være forårsaket av komplikasjoner til infeksjon eller skade av øret, inkludert trykkskader ved dykking. Stemmegaffel er også viktig i diagnostikk av andre tilstander, som buegangsdehiscens.
+
+![Stemmegaffel med frekvens 256 Hz til medisinsk bruk (men ikke bruk den til å stemme instrumenter med da 256 Hz blir en litt "sur" C).](images/stemmegaffel.jpg){style="padding:40px;"}
+
+## Otoskop
+
+Et håndholdt otoskop er et enkelt hjelpemiddel for å påvise tegn til ørebetennelse eller øreskade, f.eks. ved tinningbensfraktur (blod i mellomøret, hematotympanon).
+
+![Håndholdt otoskop med batterigrep](images/otoskop.jpg){style="padding:40px;"}
+
+## Modeller av det indre øret
+
+En modell av det indre øret kan være svært nyttig som hjelpemiddel i tolkning av nystagmus av perifer, vestibulær årsak, da stimulering eller lammelse av en buegang gir nystagmus i samme plan som buegangen (Ewalds første lov). Dette er særlig viktig i diagnostikk av benign paroksysmal posisjonsvertigo.
+
+![En [papirmodell](papirmodell.pdf) av buegangene kan lastes ned gratis, og innsatsen med klipping og bretting gir deg betaling i form av bedre anatomisk forståelse av buegangenes orientering.](images/papirmodell.jpg){style="padding:40px;"}
+
+![Luksusmodell av det indre øret i 18 x forstørrelse](images/modell.jpg){style="padding:40px;"}

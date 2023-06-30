@@ -1,0 +1,13 @@
+## Supplerende undersøkelser {#sec-supplerende}
+
+Det foreligger et nesten ubegrenset repertoar av supplerende undersøkelser som kan være aktuelle ved svimmelhet. Valget av disse er alltid underordnet anamnesen og den kliniske undersøkelsen av pasienten.
+
+Ved synkoper, nærsynkoper og fall, særlig hos eldre, kan det være mistanke om ortostatisk hypotensjon eller arytmier. Ortostatismetest er omtalt i eget diagnosekapittel. Ortostatisk hypotensjon kan bekreftes ved ambulant 24-timers blodtrykksmåling, og ved tvil kan det henvises til vippetest (TILT-test). Ved spørsmål om arytmi er EKG og eventuelt 24-timers EKG indisert.
+
+Blodprøver er særlig aktuelt med tanke på anemi (Hb), hypothyreose, diabetes og mistanke om tilgrunnliggende infeksjonssykdom (borrelia- og virusserologi). Akutt billeddiagnostikk med spørsmål om hjerneslag kan være indisert ved akutt, nyoppstått, kraftig svimmelhet med mindre denne kan tilskrives ufarlige tilstander som f.eks. benign paroksysmal posisjonsvertigo.
+
+Billeddiagnostikk er også indisert ved langvarig eller progredierende svimmelhet av uklar årsak. MR gir best visualisering av sentralnervesystemet, men CT er raskere, rimeligere og lettere tilgjengelig.
+
+Henvisning til ulike spesialister bør være basert på klinisk mistanke ut fra anamnese og undersøkelse. Øre-nese-halsleger og nevrologer har kompetanse i vurdering av vertigo og svimmelhet av henholdsvis otologiske og nevrologiske årsaker. Henvisning til psykolog er aktuelt dersom pasienten fremviser klare symptomer på psykisk sykdom og ellers er motivert. Vurdering av øyelege er særlig aktuelt ved svimmelhet hos barn, der skjeling og anisometropi kan være medvirkende faktorer. Ved sentra som rutinemessig utreder pasienter med kronisk svimmelhet kan et tverrfaglig team bestå av øre-nese-halslege, nevrolog og psykolog.
+
+Spesialundersøkelser av det vestibulære systemet er ikke omtalt her, men nevnes i diagnosekapitlene der de er aktuelle. De har generelt lav sensitivitet og spesifisitet og er ikke egnet for screening av svimle pasienter. De kan derimot gi nyttig tilleggsinformasjon ved enkelte problemstillinger.

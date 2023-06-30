@@ -1,0 +1,98 @@
+/*-- scss:defaults --*/
+
+$primary: #00857C !default;
+
+/*-- scss:rules --*/
+
+div.sidebar-item-container .active {
+  font-weight: bold;
+}
+
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active{
+  font-weight: bold;
+}
+
+img.quarto-cover-image {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
+    margin-top: 70px;
+}
+
+/* Diagnoseblokkene - disse krever litt ekstra padding av teksten*/
+.diagnose{
+  background-color: #F8F8F8;
+  padding: 1em;
+}
+/*
+.diagnose > p{
+  text-indent: -1.2em;
+  padding-left: 2em;
+}*/
+
+.icd11 {
+  padding:30px;
+  background-color:whitesmoke;
+  font-size:smaller;
+  text-align:justify;
+  color:darkslategrey;
+}
+
+.niv1 {padding-left:0px;margin:0;}
+.niv2 {padding-left:40px;margin:0;}
+.niv3 {padding-left:80px;margin:0;}
+
+caption, .table-caption {
+  padding-left:10px;
+  text-align: left;
+  font-weight: bold;
+  border: none;
+  border-radius:10px 10px 0px 0px;
+  background-color: #009879;
+  color: #ffffff;
+  padding: 12px 15px;
+}
+
+table.table{
+  border-collapse: collapse;
+  margin-top:40px;
+  margin-bottom:40px;
+  border: none;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.table tbody tr:nth-of-type(odd) {
+    background-color: #f3f3f3;
+}
+
+.table th,
+.table td {
+    padding: 12px 15px;
+}
+
+.table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.table thead {
+    border-bottom: 2px solid #009879;
+}
+
+.table ul {
+  margin-left:1px;
+  list-style-type: none;
+  margin-left: -15px;
+}
+.table ul li:before {
+  content: '-';
+  position: absolute;
+  margin-left: -15px;
+}
+
+.blockquote p{
+  padding-left:15px;
+  text-indent:-15px;
+  margin-bottom:0px;
+}

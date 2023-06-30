@@ -1,0 +1,43 @@
+# Patofysiologi {#sec-patolfysiologi}
+
+Dette kapittelet gjennomgår noen viktige fellestrekk ved flere av de vestibulære sykdommene, som vestibulær asymmetri og sentral kompensasjon. En god forståelse av disse begrepene gjør det mulig å forstå symptomer, funn og forløp av mange ulike tilstander.
+
+## Asymmetri {#sec-asymmetri}
+
+Sykdommer i balanseorganet i det indre øret og dets sentrale baner virker sjelden helt [symmetrisk](#sec-symmetrisk_funksjonstap) på høyre og venstre side. Asymmetrisk aktivitet i vestibulariskjernene er derfor et fellestrekk for mange av de vestibulære sykdommene. Hos friske forårsakes asymmetri av at hodet beveger seg eller står på skakke. Symmetrisk aktivitet betyr at hodet står vertikalt og i ro. Alle sykdommer som påvirker vestibulariskjernene direkte eller indirekte gjennom afferente forbindelser fra det indre øret, balansenerven eller lillehjernen, kan forstyrre denne symmetrien. Dette kan skje på forskjellige måter.
+
+-   Perifer vestibulær parese. Vestibulariskjernene mottar sine viktigste stimulerende afferenter fra det indre øret via balansenerven. En perifer parese fører til at aktiviteten i samme sides vestibulariskjerne reduseres, mens aktiviteten på motsatt side øker som følge av manglende inhibisjon via komissurale fibre. Vanligste årsak er [vestibularisnevritt](#sec-vestibularisnevritt), men også [tinningbensfraktur](#sec-tinningbensfraktur), [labyrintitt](#sec-labyrintitt), blødning/infarkt i labyrinten og [vestibulær trykkfallsyke](#sec-trykkfallsyke) kan gi en perifer parese.
+
+-   Perifer vestibulær irritasjon. En rekke sykdommer kan irritere balanseorganet og føre til eksitasjon av samme sides vestibulariskjerne. Den vanligste er [benign paroksysmal posisjonsvertigo](#sec-bppv). Serøs [labyrintitt](#sec-labyrintitt) og [Menières sykdom](#sec-meniere) er andre årsaker.
+
+-   Sentral vestibulær skade kan skje som følge av lesjon i hjernestamme eller lillehjerne. Ved skader i hjernestammen er det oftest andre symptomer og utfall i tillegg. Lillehjerneinfarkter kan imidlertid gi isolert vertigo, særlig dersom de begrenser seg til vestibulocerebellum (nodulus og flocculus), som har nære forbindelser til vestibulariskjernene.
+
+## Et stereotypt symptombilde {#sec-vertigokvartetten}
+
+Uansett årsak vil asymmetrisk tonus i vestibulariskjernene utløse et karakteristisk og lett gjenkjennelig klinisk bilde. Illustrasjonen på forsiden av denne håndboken forestiller «vertigokvartetten» som viser de fire kliniske kjennetegnene på vestibulær sykdom:
+
+![Vertigokvartetten illustrerer det typiske symptombildet ved akutt oppstått asymmetrisk tonus i vestibulariskjernene i hjernestammen.](images/vertigokvartetten.jpg){style="padding: 40px"}
+
+-   Vertigo er den bevisste opplevelsen av bevegelse, oftest en følelse av at en selv eller omgivelsene roterer. Nystagmus gir i tillegg en sterk visuell bevegelsesillusjon. Pasienten «ser» at alt går rundt. Vertigoopplevelsen formidles av baner fra vestibulariskjernene til primære vestibulære og optokinetiske områder i hjernebarken.
+
+-   Nystagmus skyldes den vestibulookulære refleksen. Asymmetrisk tonus i vestibulariskjernene gir automatisk asymmetrisk tonus i øyemuskelkjernene. Vi får en konjugert drift av øynene (langsom fase) avbrutt av raske bevegelser i motsatt retning (hurtig fase). Den raske fasen går til den mest aktive siden.
+
+-   Kvalme og brekninger skyldes forbindelser mellom vestibulariskjernene og brekningssenteret i hjernestammen. Det er mange faktorer som påvirker graden av kvalme. Noen av disse er diskutert under kapittelet om bevegelsessyke. Dersom vertigo kun varer i noen sekunder, som ved benign paroksysmal posisjonsvertigo, kan det være lite kvalme. Kvalmen kommer noen ganger etter at vertigoanfallet er over.
+
+-   Falltendens skyldes forbindelser mellom vestibulariskjernene og den proksimale skjelettmuskulaturen. Ved en akutt perifer parese faller pasienten til den syke siden.
+
+## Sentral kompensasjon: Gjenopprettelse av symmetri {#sec-sentral_kompensasjon}
+
+Sykdomsbildet ved en akutt perifer vestibulær parese er dramatisk. En tilsynelatende frisk person kan i løpet av minutter bli intenst uvel og sengeliggende. Minste hodebevegelse medfører brekninger. Betydelig ustøhet gjør det vanskelig å gå oppreist. Selv om den perifere paresen består, blir pasienten oftest betydelig bedre i løpet av noen få dager. Dette skyldes en prosess som kalles vestibulær kompensasjon, og som ikke er fullt ut forstått. Vi vet at symmetrien i vestibulariskjernene gjenopprettes delvis i løpet av noen få dager. Cerebellum spiller antakelig en nøkkelrolle ved å stimulere den paretiske siden. Det er imidlertid bare hvileaktiviteten som gjenopprettes. Ved hodebevegelser mot den syke siden vil aktiviteten i samme sides vestibulariskjerne ikke lenger øke slik den gjorde før skaden.
+
+Gjenopprettelsen av hvileaktiviteten på den syke siden gjør at nystagmus, vertigo, falltendens og kvalme i ro forsvinner. Vi sier at den statiske funksjonen gjenopprettes, mens den dynamiske funksjonen, dvs. måten systemet reagerer på hodebevegelser, forblir svekket så lenge den perifere paresen består. Mange pasienter blir tilnærmet asymptomatiske, men funksjonsfeilen vil likevel vise seg på subtile måter. Den vestibulære funksjonen, særlig den dynamiske, er avhengig av opptrening. Ved å utsette balansesystemet for hodebevegelser som fremkaller sensorisk konflikt mellom visuelle, vestibulære og proprioseptive stimuli, skjer det forandringer i hjernen som gjør at balansefunksjonen normaliseres. Prosessen kan ta tid og krever at pasienten er i bevegelse, selv om dette medfører en økt svimmelhetsfølelse og uvelhet forbigående. Vestibulære treningsprogrammer har dokumentert effekt. Sedative medikamenter som demper symptomene i akuttfasen, vil i opptreningsfasen kunne forsinke den vestibulære kompensasjonen og føre til dårligere langtidsprognose.
+
+Selv om prognosen er god ved ensidige perifere vestibulære skader, er lettere restsymptomer vanlige. Blant annet er det vist at omtrent 50 % av pasienter har bestående symptomer etter sykdommen [vestibularisnevritt](#sec-vestibularisnevritt).
+
+## Asymmetri som oppstår gradvis kan være asymptomatisk
+
+Ved vestibulær asymmetri som oppstår gradvis over lang tid, kan den sentrale kompensasjonen være så effektiv at pasienten ikke opplever svimmelhet eller ubalanse. Dette gjelder for eksempel omtrent 1 av 3 pasienter med [vestibularisschwannom](#sec-vestibularisschwannom). Ved de fleste vestibulære sykdommer er det likevel en viss fluktuasjon i den vestibulære funksjonen slik at svimmelhet inngår i symptombildet.
+
+## Symmetrisk funksjonstap {#sec-symmetrisk_funksjonstap}
+
+Symmetrisk tap av vestibulær funksjon ses sjeldnere, men kan være underdiagnostisert fordi symptomene er mindre karakteristiske. Dette er omtalt i diagnosekapittelet om [bilateral vestibulopati](#sec-bilateral). I akuttfasen kan det likevel være noe asymmetri slik at det oppstår et karakteristisk vestibulært symptombilde med vertigo, kvalme, falltendens og nystagmus. Dersom skaden skjer helt synkront på begge sider, kan symptomene bestå hovedsakelig av ustøhet og oscillopsi, dvs. at gange og løping medfører uklart syn og en fornemmelse av at omgivelsene hopper. Dette skyldes svikt i den vestibulookulære refleksen. I tillegg opplever pasienten ustøhet, særlig i mørke. Vertigo og kvalme kan være mindre fremtredende.

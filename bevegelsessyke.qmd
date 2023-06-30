@@ -1,0 +1,14 @@
+## Bevegelsessyke {#sec-bevegelsessyke}
+
+**ICD-10:** Bevegelsessyke (T75.3)\
+**ICD-11:** Motion sickness (NF08.3)\
+**Forekomst:** Avhengig av kriterier. Sjelden hos barn \< 2 år. Høyest prevalens i alder 3-12 år. Vanligere blant kvinner enn menn. Forekomst øker i forb. med svangerskap og menstruasjon.\
+**Etiologi:** Langsomme, passive helkroppsbevegelser med frekvens omkring 0,2 Hz (båt, bil, fly, kamel, elefant, karusell mv), optokinetiske stimuli (film, dataspill). Raskere bevegelser over 1 Hz (løping, gange, hest) fremkaller sjelden kvalme. Kombinasjon av lineære og angulære bevegelser fremkaller mest kvalme (coriolis-effekten). Disse kan simuleres i rotasjonsstol som akselererer mens hodet bøyes frem og tilbake eller ved rotasjon omkring skrå akse. Bevegelsessyke er assosiert med migrene og predikerer grad av kvalme etter narkose, ved svangerskap, cytostatikabehandling og vestibulære sykdommer.\
+**Patogenese:** Sensorisk konflikt mellom visuelle og vestibulære stimuli fremkaller aktivering av brekningssenteret i hjernestammen. Situasjonen er parallell til den som oppstår ved akutt vestibulær sykdom. En teori er at brekningene er en forsvarsmekanisme mot inntak av planter som inneholder nevrotoksiner.\
+**Anamnese:** *Debut:* Oftest gradvis i to- til treårsalderen. Avtar oftest senere. Kan forverres av vestibulære sykdommer. Kvalme kan også være en betinget respons, f.eks. ved kjemoterapi. *Ledsagende symptomer:* Ubehag i epigastriet, kvalme, uvelhet, blekhet (perioralt og i ansikt), kaldsvette, munntørrhet, svimmelhet, brekninger, letargi, utmattelse, søvnighet.\
+**Kliniske funn:** Normal klinisk undersøkelse utover det ovennevnte.\
+**Supplerende undersøkelser:** Sjelden aktuelt. Bevegelsessimulatorer og spesielt utviklede spørreskjemaer er brukt i rekrutteringen til visse yrker (piloter, astronauter mv). Optokinetisk nystagmus: Langvarig optokinetisk etternystagmus kan være assosiert med bevegelsessyke.\
+**Diagnose:** Basert på typisk anamnese evt Motion Sickness Susceptibility Questionnaire [@Golding2016].\
+**Mål for behandling:** Forebygging av kvalme og brekninger før reise eller arbeid om bord i fartøy.\
+**Behandling:** Intensive habitueringsopplegg for spesielle yrkesgrupper er rapportert å ha god effekt (\> 85 %,). En rekke medikamenter har vært forsøkt, men er i noen tilfeller kontraindisert (bl.a. for piloter) på grunn av døsighet. Per i dag er meklozin og cyklizin tilgjengelig i Norge. Naturpreparater som inneholder bl.a. ingefær kan ha effekt. Pusteøvelser kan redusere kvalme.\
+**Prognose:** En disposisjon for bevegelsessyke er ofte livslang, men en viss bedring kan forventes med alder.

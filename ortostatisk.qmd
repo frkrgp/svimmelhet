@@ -1,0 +1,35 @@
+## Hemodynamisk ortostatisk svimmelhet {#sec-ortostatisk}
+
+**Merknad:** Denne tilstanden -- inkludert nye diagnostiske kriterier -- ble beskrevet i 2019 og er beslektet, men ikke identisk, med ortostatisk hypotensjon og postural ortostatisk takykardi (POTS).\
+**ICD-10:** Ortostatisk hypotensjon (I95.1). Legemiddelutløst hypotensjon (I95.2)\
+**ICD-11:** Orthostatic hypotension (BA21), other specified episodic vestibular syndrome (AB31.y)\
+**Forekomst:** Prevalens av ortostatisk hypotensjon er 10 -- 50 % ved alder \> 65 år avhengig av risikofaktorer.\
+**Etiologi:** Multifaktoriell: Medikamentbruk (antihypertensiva, diuretika, antidepressiva), dehydrering, alkoholinntak, varmebølger, langvarig sengeleie, graviditet, Parkinsons sykdom og parkinson-lignende sykdommer med autonom dysfunksjon (Shy-Drager syndrom), reversert vertebral blodstrøm (subclavian steal), sinus caroticus-syndrom mv. Aldersforandringer og arteriosklerose er predisponerende faktorer.\
+**Patogenese:** Oppreist stilling forårsaker blodtrykksfall med forbigående iskemi i hjernestammen, svimmelhet og synkope. Symptomgrad avhenger av blodtrykksfallet og av lokale forhold i precerebrale og cerebrale kar. Tilstanden er assosiert med fallskader, hjerneslag og generell dødelighet.\
+**Anamnese:** Debut: Gradvis. Tidsforløp: Svingende. Svimmelhetens karakter: Nærsynkope, svartning for øynene, synkope, fall. Ledsagende symptomer: Utmattelse, tåkesyn, vertigo, smerter (nakke, bryst, hode, rygg), palpitasjoner, dyspné. Utløsende faktorer: Det å reise seg opp fra liggende eller sittende stilling. Symptomene forsvinner når pasienten legger seg ned.\
+**Kliniske funn:** Ortostatismetester (se under diagnose) gir grunnlag for diagnosen.\
+**Supplerende undersøkelser:** Ambulant 24-timers blodtrykksmåling. Hvis fortsatt uavklart, kan pasienten henvises til vippetest (tilt-test) supplert med carotis-massasje og evt nitroglyserin, som induserer blodtrykksfall, svimmelhet og synkope.\
+**Diagnose:** Et fall på \> 20 mmHg i systolisk eller \> 10 mmHg i diastolisk blodtrykk 3 minutter etter å ha reist seg fra liggende til stående stilling regnes som diagnostisk for ortostatisk hypotensjon [@Naschitz2007]. Diagnostiske kriterier for hemodynamisk ortostatisk svimmelhet[@Kim2019]:\
+
+::: diagnose
+*Hemodynamisk ortostatisk svimmelhet (A-C oppfylt):*
+
+A.  Minst 5 episoder av svimmelhet, ustøhet eller vertigo utløst av å reise seg opp (fra liggende til sittende eller fra sittende til stående), eller til stede i oppreist stilling, og som opphører ved å sette seg eller legge seg ned
+B.  Ortostatisk hypotensjon, postural ortostatisk takykardi (POTS) eller synkope påvist i stående stillig eller under tilt-test med hodet opp
+C.  Ikke mer forenlig med annen sykdom eller tilstand
+
+*Sannsynlig hemodynamisk ortostatisk svimmelhet (A-C oppfylt):*
+
+A.  Minst 5 episoder av svimmelhet, ustøhet eller vertigo utløst av å reise seg opp (fra liggende til sittende eller fra sittende til stående), eller til stede i oppreist stilling, og som opphører ved å sette seg eller legge seg ned
+B.  Minst ett av følgende ledsagende symptomer
+    -   Generalisert svakhet eller tretthet
+    -   Vansker med å tenke eller konsentrere seg
+    -   Tåkesyn
+    -   Takykardi eller hjertebank (palpitasjoner)
+C.  Ikke mer forenlig med annen sykdom eller tilstand
+:::
+
+**Ansvarsfordeling:** Svimmelhet, synkope eller fall, særlig hos eldre, disponerte individer bør gi mistanke om tilstanden, som ofte kan behandles i primærhelsetjenesten. Sekundærutredning i spesialisthelsetjenesten, som regel hos kardiolog eller annen indremedisiner.\
+**Mål for behandling:** Behandle og forebygge svimmelhet, synkope og fall relatert til hypotensjon.\
+**Behandling:** Seponering evt. dosereduksjon av antihypertensiva, diuretika, nevroleptika mv. Dehydrering: Væskebehandling, råd (økt inntak av væske/salt, mosjon, innta frokost, forsiktighet ved varmebølger, minimalisere alkoholinntak, reise seg langsomt). Bruk av støttestrømper til over knærne.\
+**Prognose:** De aller fleste pasienter blir bedre med de nevnte tiltak. Prognosen er dårligere hos pasienter med Parkinsons sykdom og lignende lidelser.

@@ -1,0 +1,44 @@
+## Vestibularisnevritt {#sec-vestibularisnevritt}
+
+**ICD-10:** Vestibularisnevritt (H81.2)\
+**ICD-11:** Vestibular neuritis (AB30.0)\
+**Synonymer:** Neuritis vestibularis, akutt unilateral perifer vestibulopati, eng. vestibular neuritis / neuronitis\
+**Definisjon:** Akutt, ensidig, perifer vestibulopati av ukjent, eller antatt viral, årsak\
+**Forekomst:** Insidens ca. 15 per 100 000 per år. Sykehusinnleggelser i Norge: 700 -- 900 pasienter per år. Forekommer i alle aldre med høyest insidens fra 30 til 50 år.\
+**Etiologi:** Antatt reaktivering av herpes simplex eller andre nevrotrope virus.\
+**Patogenese:** Ødem og strangulering av nervus vestibularis i benet kanal til vestibulum. Parese av nerven fører til asymmetrisk aktivitet i vestibulariskjernene, vertigo, brekninger, falltendens og nystagmus via forbindelser til korteks, brekningssenteret i hjernestammen, ryggmarg og øyemuskelkjerner.\
+**Anamnese:** *Debut:* Akutt eller hyperakutt. Noen ganger (\<50 %) utløst av øvre luftveisinfeksjon. *Tidsforløp:* I akuttfasen kontinuerlig vertigo etterfulgt av gradvis bedring over uker til måneder. Kortvarig økning av symptomer relatert til bevegelse og fysisk aktivitet. *Svimmelhetens karakter:* Rotatorisk (oftest) eller nautisk vertigo. *Utløsende faktorer:* Spontant, men se Debut og Tidsforløp. *Ledsagende symptomer:*Nesten alltid kvalme og brekninger. Falltendens til syk side (oftest).\
+**Kliniske funn:** Spontannystagmus mot frisk side (kriterium). Patologisk hodeimpulstest til syk side (\>50 %). Falltendens til syk side (\>50 %).\
+**Supplerende undersøkelser:** *Kalorisk prøve:* Kanalparese på syk side. *CT:* Vanligvis utilstrekkelig til å utelukke infarkt i bakre skallegrop. *MR:* Indisert ved klinisk mistanke om sentral årsak. *VEMP:* Utslukket på syk side ved affeksjon av nedre gren av n. vestibularis. *Borrelia-serologi:* Indisert særlig ved sykdom hos barn.\
+**Diagnose:** Diagnostiske kriterier [@Strupp2022]:
+
+::: diagnose
+*Akutt ensidig vestibulopati (vestibularisnevritt) (A-D oppfylt):*
+
+A.  Akutt eller subakutt innsettende, vedvarende vertigo av moderat til alvorlig intensitet med symptomvarighet i minst 24 timer
+B.  Spontannystagmus av perifer type - dvs. med en retning som passer med affiserte buegangsafferenter, vanligvis horisontal-torsjonell, med fast retning og forsterket når blikkfiksasjon fjernes.
+C.  Utvetydig bevis på nedsatt VOR-funksjon på siden som er motsatt til retningen av den raske fasen til spontannystagmus.
+D.  Ingen bevis for akutte sentralnervøse symptomer eller akutte audiologiske symptomer som hørselstap eller tinnitus eller andre otologiske symptomer som øresmerter.
+E.  Ingen akutte sentralnervøse tegn, dvs. ingen sentrale okulomotoriske eller sentrale vestibuære tegn, spesielt ingen vertikal skjeling, blikkretningsnystagmus og ingen akutte audiologiske tegn.
+F.  Ikke bedre forklart av annen vestibulær sykdom eller tilstand†
+
+*Akutt ensidig vestibulopati (vestibularisnevritt) under utvikling*
+
+Denne diagnosen kan settes dersom symptomene som nevnt i kriterium A har vart i minst 3 timer, men ennå ikke i 24 timer og de andre kriteriene er oppfylt.
+
+*Sannsynlig ensidig vestibulopati (vestibularisnevritt)*
+
+Denne diagnosen kan settes dersom alle kriteriene utenom C er oppfylt, dvs når det ikke er utvetydig bevis for nedsatt VOR på siden som er motsatt til retningen av den raske fasen til spontannystagmus ved bedside-undersøkelser.
+
+*Historie for akutt ensidig vestibulopati (vestibularisnevritt)*
+
+Denne diagnosen kan settes dersom kriterium A, D, E og F er oppfylt basert på sykehistorie og det foreligger bevis for ensidig redusert VOR-funksjon.
+:::
+
+† For å utelukke sentral årsak benyttes ofte [HINTS+](#sec-HINTS)-kriteriene eventuelt i kombinasjon med billeddiagnostikk i form av MR cerebrum med diffusjonsvekting. Sistnevnte kan imidlertid være falsk negativ de første 48 timene etter et infarkt i lillehjerne/hjernestammen.
+
+**Differensialdiagnoser:** Vanligste årsak til akutt vertigo er benign paroksysmal posisjonsvertigo som diagnostiseres ved Dix-Hallpikes manøver. Nyoppstått hørselstap taler for labyrintitt, Menières sykdom eller evt. akustikusnevrinom. Nyoppståtte nevrologiske symptomer taler for sentral årsak. Et isolert lillehjerneinfarkt kan gi akutt vertigo med brekninger, falltendens og nystagmus. Lillehjerneinfarkt kan derfor være vanskelig å skille klinisk fra vestibularisnevritt (se [HINTS+](#sec-HINTS)-kriteriene).\
+**Ansvarsfordeling:** Ved akutt, nyoppstått vertigo foretas den initiale vurderingen oftest av primærlege, som bør avklare om det foreligger benign paroksysmal posisjonsvertigo, som vanligvis kan behandles umiddelbart uten behov for videre henvisning. Ved mistanke om vestibularisnevritt bør terskelen være lav for innleggelse i sykehus, primært for å verifisere diagnosen og utelukke lillehjerneinfarkt.\
+**Mål for behandling:** Lindre symptomer i akuttfasen. Forkorte sykdomsforløp. Forebygge utvikling av kronisk svimmelhet.\
+**Behandling:** *I akuttfasen (1-3 dager):* Informere og berolige pasienten for å dempe angst, lindre symptomene ved sengeleie og ro. Eventuelt antiemetika, f.eks. proklorperazin 25 mg supp. *I kompensasjonsfasen (uker til måneder):* Tidligst mulig seponering av sedativa/proklorperazin og mobilisering. Noe økt svimmelhet og kvalme må tolereres. Hyppige pauser, hvile og søvn er viktig. Oppfølgning av fysioterapeut / balanseterapeut med målrettet trening er sterkt ønskelig. *Kortikosteroider:* Kan gi bedret tilheling av funksjonen i balansenerven og forkorte sykdomsforløpet, men det er usikkert om langtidsprognosen påvirkes [@Brantberg2008]. *Behandlingsforslag:* Dexametason 8 mg iv umiddelbart når diagnosen er bekreftet klinisk. Prednisolon 60 mg daglig fra dag 2 til 5. Fra dag 6 trappes dosen ned til null dag 11.\
+**Prognose:** Et flertall av pasientene blir tilnærmet asymptomatiske. Noen utvikler kronisk svimmelhet. Enkeltstudier viser restsymptomer hos opp til 50 %.

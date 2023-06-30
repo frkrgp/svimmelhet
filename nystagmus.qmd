@@ -1,0 +1,45 @@
+# Nystagmus
+
+Nystagmus er ufrivillige, repetitive øyebevegelser. Vestibulære sykdommer gir ofte en spesiell type nystagmus der øynene hele tiden driver i en retning (langsom fase) og deretter rykker tilbake i motsatt retning (rask fase).
+
+![Vestibulær nystagmus består av en langsom fase der øynene driver i en retning og en rask fase der øynene rykker tilbake i motsatt retning. Vi angir nystagmusretning ut fra den raske fasen. På animasjonen over slår altså nystagmus mot venstre. Det er også en liten rotatorisk komponent som kan beskrives som at øyets øvre pol slår mot venstre. Merk at begge øynene beveger seg likt. Nystagmus er altså konjugert. Denne typen nystagmus kan ses ved høyresidig vestibularisnevritt, men også ved lesjoner i hjernestammen eller lillehjernen.](images/nystagmus1.gif){style="padding:40px;" width="40%"}
+
+Noen pasienter, særlig svaksynte, kan ha medfødt nystagmus som er pendulerende, dvs. at øynene beveger seg like raskt i begge retninger. Denne typen nystagmus skyldes ikke øresykdom og gir sjelden svimmelhet eller balanseproblemer.
+
+![Pendulerende nystagmus er er vanligvis medfødt. Den har ofte lav amplitude og fortsetter selv om pasienten prøver å feste blikket.](images/nystagmus2.gif){style="padding:40px;" width="40%"}
+
+En vanlig type nystagmus er rotatorisk og oppadslående. Dette er den vanligste varianten av nystagmus ved benign paroksysmal posisjonsvertigo. Nystagmus slår i plan med bakre buegang som stimuleres kraftig i det otolitter faller gjennom den. Den er alltid kortvarig (fra få sekunder opp til et minutt) og oppstår kun etter hodebevegelser. Nystagmus som hovedsakelig er rotatorisk eller vertikal og som vedvarer, også når hodet er i ro, regnes som tegn på en sentral lesjon.
+
+![Nystagmus ved den vanligste varianten av benign paroksysmal posisjonsvertigo (i bakre buegang) slår oppover og rotatorisk mot det syke øret (her det venstre). Den er alltid kortvarig og oppstår bare etter hodebevegelser (særlig etter Dix-Hallpikes manøver, som brukes for å stille diagnosen)](images/nystagmus3.gif){style="padding:40px;" width="40%"}
+
+## Spontan eller fremprovosert nystagmus
+
+Spontannystagmus er nystagmus som er til stede når pasienten sitter oppreist med hodet i ro og ser rett frem. Dette funnet skal tas på alvor, særlig hos pasienter med akutt svimmelhet, fordi det kan være tegn på en sentral lesjon, f.eks. i lillehjernen eller hjernestammen. Spontannystagmus tolkes i sammenheng med hodeimpulstest og HINTS^+^-kriteriene, som er beskrevet nedenfor, for å avgjøre om den skyldes sentral eller perifer årsak.
+
+Nystagmus som fremprovoseres av hodebevegelser, trykk mot øret, valsalvas manøver eller lyder skyldes vanligvis perifere vestibulære sykdommer, og vi skal omtale disse nystagmusvariantene nærmere under kapitlene om Dix-Hallpikes manøver, rullemanøver og fistelprøver.
+
+## Teknikk ved nystagmusundersøkelse
+
+Du begynner nystagmusundersøkelsen med å se etter spontannystagmus, dvs. nystagmus som er til stede uprovosert og vedvarer når pasienten holder hodet i ro og ser rett fremover. Dersom du ser tydelig spontannystagmus, noterer du retningen. Deretter ber du pasienten om å se mot høyre og mot venstre. Noter om nystagmus forsterkes, svekkes eller endrer retning ved sideblikk mot høyre eller venstre. Til slutt ber du pasienten om å feste blikket på fingeren din og noterer om nystagmus blir svakere eller opphører ved blikkfiksasjon.
+
+::: callout-warning
+## Viktig!
+
+Dersom du ser tydelig spontannystagmus, går du videre med hodeimpulstest og vurdering av HINTS^+^-kriteriene. Du trenger da ikke å utføre Dix-Hallpikes manøver, hoderisting el.l. for å provosere fram nystagmus.
+
+Husk at spontannystagmus er et av tegnene på akutt vestibulært syndrom, som alltid skal tas alvorlig hos pasienter med plutselig, nyoppstått svimmelhet og uvelhet. Spontannystagmus skyldes sjelden benign paroksysmal posisjonsvertigo.
+:::
+
+Dersom du ikke ser spontannystagmus, kan dette skyldes at den er svak og undertrykkes når pasienten fester blikket. Høyest sensitivitet for å detektere spontannystagmus får du ved å bruke video-Frenzel (best) eller andre nystagmusbriller. Her får du to tips for hvordan du kan detektere nystagmus uten bruk av utstyr.
+
+::: {.callout-tip appearance="minimal"}
+## Tips 1: Be pasienten om å lukke øynene
+
+Be pasienten om å lukke øynene i ca. et minutt. Dette vil fremkalle en eventuell spontannystagmus som noen ganger kan ses eller palperes gjennom øyelokkene. Følg nøye med i det du ber pasienten om å åpne øynene. Noter eventuell nystagmus og retning. Nystagmus vil ofte bli svakere eller forsvinne så snart pasienten klarer å fiksere blikket.
+:::
+
+::: {.callout-tip appearance="minimal"}
+## Tips 2: Hoderisting i 10 sekunder
+
+Be pasienten om å riste på hodet i 10 sekunder. Målet er å få til en rask "nei-nei"-bevegelse på ca. 2 Hz. Noter deretter eventuell nystagmus og retning. Dette er per definisjon ikke en spontannystagmus, men ved en perifer vestibulær skade vil den slå mot det friske øret på samme måte som en spontannystagmus.
+:::

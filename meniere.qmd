@@ -1,0 +1,38 @@
+## Menières sykdom {#sec-meniere}
+
+**ICD-10:** Menières sykdom (H81.0)\
+**ICD-11:** Meniere disease (AB31.0)\
+**Forekomst:** Punktprevalens ca. 1--2 ‰. Tilsvarer ca. 5--10 tusen tilfeller i Norge. Debuterer oftest i voksen alder, sjelden blant barn.\
+**Etiologi:** Idiopatisk (oftest). Familiær opphopning forekommer. Hodetraume. Labyrintitt.\
+**Patogenese:** Endolymfatisk hydrops påvist i tinningbenstudier. Misforhold mellom produksjon og resorpsjon av endolymfe fører til utspiling av den membranøse labyrinten og skade av det vestibulære og kokleære sanseepitelet.\
+**Anamnese:** *Debut:* Akutt eller hyperakutt. Spontant eller etter gjennomgått labyrintitt (forsinket Menières sykdom). Debutsymptomer er vertigo, hørselstap eller tinnitus i varierende rekkefølge. *Tidsforløp vertigo:* Gjentatte anfall. Varer typisk i flere timer. Uvelhet og utmattelse kan vare lengre. Varierende, men svakere symptomer mellom anfall. *Tidsforløp hørselstap/tinnitus:* Fluktuerende, ofte i takt med vertigoanfall. *Svimmelhetens karakter:* Rotatorisk (oftest) eller nautisk vertigo. *Dropp-atakker (Tumarkin-anfall):* Plutselige svimmelhetsepisoder som fører til fall uten synkope. Kan forekomme, vanligvis sent i sykdomsforløpet. *Utløsende faktorer:* Spontane anfall (vanligst) og forverring utløst av stress. *Ledsagende symptomer:* Under anfall er det nesten alltid kvalme og brekninger, hørselstap, tinnitus, trykkfølelse i øret og betydelig falltendens.\
+**Kliniske funn:** Under anfall alltid spontannystagmus (kan være irritativ, dvs. mot syk side). Falltendens. Nevrogent hørselstap (Webers prøve lateraliserer til frisk side). Mellom anfall ofte negativ status initialt i sykdomsforløpet, evt. lettere falltendens og nevrogent hørselstap.\
+**Supplerende undersøkelser:** *Audiometri:* Nevrogent hørselstap på affisert side. Initialt i bassfrekvensene, senere flatt tap. *MR:* Indisert for å utelukke bl.a. vestibularisschwannom. MR med gadolinium-kontrast kan vise tegn til endolymfatisk hydrops. *Kalorisk prøve:* Varierende, men kanalparese kan ses etter langvarig forløp. *Elektrokokleografi:* Forstørret summasjonspotensial.\
+**Diagnose:** Internasjonale diagnostiske kriterier [@Lopez2015]:
+
+::: diagnose
+*Klinisk sikker Menières sykdom (A-D oppfylt)*
+
+A.  To eller flere spontane vertigoanfall der hvert anfall varer fra 20 minutter til 12 timer
+B.  Audiometrisk bekreftet sensorinevralt hørselstap i bass- til mellomtoner i det affiserte øret ved minst én anledning før, under eller etter et vertigoanfall
+C.  Fluktuerende hørselssymptomer (hørsel, tinnitus, trykkfølelse) i det affiserte øret
+D.  Ikke mer forenlig med annen vestibulær diagnose
+
+*Sannsynlig Menières sykdom (A-C oppfylt)*
+
+A.  To eller flere vertigoanfall der hvert anfall varer fra 20 minutter til 24 timer
+B.  Fluktuerende hørselssymptomer (hørsel, tinnitus, trykkfølelse) i det affiserte øret
+C.  Ikke mer forenlig med annen vestibulær diagnose.
+:::
+
+**Differensialdiagnoser:** Migrenerelatert vertigo mangler karakteristisk hørselstap. Vestibularisschwannom diagnostiseres ved MR tinningben. Ansvarsfordeling: I allmennpraksis skal Menières sykdom mistenkes hos pasienter som har anfall av svimmelhet ledsaget av hørselstap, øresus eller trykkfølelse i øret. Pasientene skal utredes og behandles av øre-nese-halsspesialist, men primærlege spiller en viktig rolle i oppfølgningen, da sykdommen er livsvarig og ofte gir plagsomme symptomer med redusert arbeidsevne.\
+**Mål for behandling:** Lindre og forebygge vertigoanfall. Behandle symptomer og oppnå best mulig funksjon mellom anfall. Forebygge kronisk svimmelhet og psykososiale komplikasjoner.\
+**Behandling:** Norske nasjonale retningslinjer for behandling av Menières sykdom er publisert av Helsedirektoratet[@HDIR2016]. Informere og berolige pasienten for å dempe angst og hjelpe til å mestre vertigoanfallene. Informasjon om Hørselshemmedes landsforbund (HLF). Tilrettelagt informasjon for norske pasienter er tilgjengelig via HLF eller på Internett (www.hlf.no, www.balanselaboratoriet.no). Pasienter bør føre anfallslogg i aktive sykdomsperioder da hyppigheten av vertigoanfallene styrer behandlingen. *Anfallskuperende behandling:* Antiemetika, f.eks. antihistamin eller proklorperazin 25 mg supp under anfall. Sistnevnte kan gi ustøhet og ekstrapyramidale bivirkninger og bør ikke brukes daglig, kun ved kraftige anfall. *Medikamentell anfallsforebyggende behandling:* F.eks. hydroklorotiazid 25 mg x 2 eller betahistin 16 mg x 3. Behandlingseffekt er ikke tilstrekkelig dokumentert, og seponeringsforsøk anbefales (f.eks. etter 3 måneder) med vurdering av anfallshyppighet før, under og etter behandlingen før behandlingen eventuelt gjenopptas. Andre behandlingsalternativer i spesialisthelsetjenesten er ventilasjonsrør i trommehinnen, intratympanisk kortison, operasjoner på saccus endolymphaticus, medikamentell labyrintdestruksjon (intraympanisk gentamycin), labyrintektomi og vestibulær nevrektomi.\
+**Prognose:** Sykdommen er kronisk og medfører vanligvis bestående nevrogent hørselstap, tinnitus og trykkfornemmelse i det affiserte øret. Flatt hørselstap omkring 60 dB er vanlig på sikt, sjelden døvhet. Tendens til bilateral affeksjon i opptil 50 % i løpet av 20-30 år. Vertigoanfallene har tendens til å bli svakere og forsvinne («brenne ut») over tid, men forløpet kan strekke seg over mange år. Behandling kan forkorte dette forløpet. Det er uvanlig med bilaterale vertigoanfall.
+
+**Kliniske retningslinjer**\
+Helsedirektoratet [@HDIR2016]\
+Den danske Sundhedsstyrelsen [@Sundhedsstyrelsen2018]\
+European Academy of Otology and Neurotology [@Magnan2018]\
+IFOS 2017 roundtable consensus document [@Nevoux2018]\
+American Academy of Otolaryngology & Head and Neck Surgery [@Basura2020]

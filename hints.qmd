@@ -1,0 +1,26 @@
+# HINTS^+^ {#sec-HINTS}
+
+HINTS^+^-kriteriene[^hints-1] brukes til å skille mellom akutt vestibulært syndrom[^hints-2] av "benign/perifer" og "farlig/sentral" type. Benign HINTS^+^ er vanligvis ensbetydende med diagnosen vestibularisnevritt. Tabellen viser kriteriene for benign HINTS^+^. Dersom ett eller flere av kriteriene ikke er oppfylt, defineres HINTS^+^ som "farlig".
+
+[^hints-1]: Akronymet HINTS^+^ står på engelsk for "head impulse test, nystagmus type, skew deviation plus hearing loss".
+
+[^hints-2]: Akutt vestibulært syndrom er plutselig, uvanlig kraftig (for pasienten) svimmelhet og uvelhet som oppstår uten klar årsak og som vedvarer selv om pasienten holder hodet helt i ro. Pasienten har ofte vertigo (rotasjon eller gynging), kvalme, brekninger og betydelig ustøhet. Nystagmus er vanligvis til stede. Kriteriene skal ikke brukes ved andre former for svimmelhet, f.eks. episodisk eller kronisk vestibulært syndrom.
+
++----------------------------------------------------------------------------------------------------------------+
+| A.  Spontannystagmus av perifer type[^hints-3]                                                                 |
+| B.  Hodeimpulstest positiv ved hodeimpulser i motsatt retning av den raske fasen av spontannystagmus[^hints-4] |
+| C.  Ingen vertikal skjeling[^hints-5]                                                                          |
+| D.  Ikke samtidig oppstått hørselstap                                                                          |
++----------------------------------------------------------------------------------------------------------------+
+
+: HINTS^+^ av benign type (Kriterium A-D oppfylt)
+
+[^hints-3]: Spontannystagmus av perifer type skal være konjugert (begge øyne beveger seg synkront), den skal ha en fast retning som hovedsakelig er horisontal, den endrer ikke retning ved sideblikk, den svekkes ved blikkfiksasjon og blir sterkere når blikkfiksasjon forhindres (f.eks. ved bruk av nystagmusbrille), den blir sterkere ved sideblikk mot rask fase og svakere ved sideblikk mot langsom fase.
+
+[^hints-4]: Hodeimpulstest er positiv ved hodeimpulser mot syk (paretisk side) og spontannystagmus slår mot frisk side.
+
+[^hints-5]: Vertikal blikkedeviasjon undersøkes ved å be pasienten om å fiksere blikket på et punkt mens du dekker til pasientens høyre og venstre øye vekselvis. Vertikal blikkdeviasjon vil si at øyet gjør en innstillingsbevegelse i vertikal retning hver gang det avdekkes.
+
+    ![Vertikal skjeling: Her med høyresidig hypotropi og venstresidig hypertropi.](images/skew.gif){style="padding:40px;" width="40%"}
+
+### Merknader

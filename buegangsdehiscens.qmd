@@ -1,0 +1,32 @@
+## Buegangsdehiscens {#sec-buegangsdehiscens}
+
+**ICD-10:** Labyrintdysfunksjon (H83.2)\
+**ICD-11:** Superior canal dehiscence syndrome (AB31.3)\
+**Synonymer:** Eng. superior canal dehiscence syndrome.\
+**Forekomst:** CT viser dehiscens i 4-9 %. Histologisk dehiscens er påvist i 0,7 % av tinningben. Klinisk sykdom er betydelig sjeldnere. Symptomer debuterer i voksen alder (median alder 40-50 år). Ca. 17 % av tilfellene er bilaterale.\
+**Etiologi:** Medfødt tynn bendekning mellom labyrint og midtre skallegrop [@Carey2000]. Dehiscens kan senere oppstå spontant eller som følge av hodetraume eller trykkpåvirkning.\
+**Patogense:** Sprekkdannelse eller gradvis erosjon av bendekningen over fremre buegang. Buegangsfistel forårsaket av kolesteatom. Lydbølger ledes gjennom buegang i tillegg til cochlea. Mekanisk hørselstap og vertigo ved sterke lyder (Tullio-fenomen). Endringer i intrakranielt trykk (bukpress) ledes gjennom buegang og cochlea. Trykkutløst vertigo og konduktiv hyperakusis.\
+**Anamnese:** Symptomene kan være audiovestibulære eller rent auditive. Debut: Gradvis (78 %). Akutt utløst av traume eller trykk (22 %). Tidsforløp: Fluktuerende, kronisk. Svimmelhetens karakter: Rotatorisk eller nautisk vertigo og oscillopsi. Ledsagende symptomer: Autofoni (60 %), konduktiv hyperakusis (52 %) f.eks. at pasienten hører øyebevegelser og egne fottrinn i øret. Andre: Falltendens, tinnitus. Utløsende faktorer: Vertigo utløst av kraftig lyd (90 %), bukpress (73 %).\
+**Kliniske funn:** Stemmegaffelprøver: Webers prøve lateraliserer til det syke øret. Ekstrem konduktiv hyperakusis gjør at noen pasienter kan høre stemmegaffel plassert mot en malleol. Fistelprøver mm.: Lydutløste øyebevegelser (82 %), Valsalva-utløste øyebevegelser (75 %). Positiv fistelprøve/Henneberts tegn (45 %). Andre: Falltendens. Otitt (ved dehiscens sekundært til kolesteatom). [@Minor2005]\
+**Supplerende undersøkelser:** Audiometri: Konduktivt hørselstap til tross for normale stapediusreflekser. CT av tinningben: Manglende bendekning over fremre buegang. VEMP: Abnormt lav terskel på syk i forhold til frisk side.\
+**Diagnose:** Kan baseres på følgende kriterier [@Goplen2022]:
+
+::: diagnose
+*Klinisk sikker diagnose (kriterium A--D oppfylt)*
+
+A.  Minst ett av følgende symptomer forenlig med et tredje vindu i det indre øret:
+    1.  Overfølsomhet (hyperakusis) for benledet lyd. Dette kan inkludere unormalt kraftig eller forvrengt lyd av egen stemme (autofoni) og indre kroppslyder som hjerteslag, tarmlyder, øyebevegelser, fottrinn mv.
+    2.  Lydutløst svimmelhet (vertigo) og/eller følelse av at synsfeltet beveger seg (oscillopsi) som sammenfaller med stimulus i tid.
+    3.  Trykkutløst svimmelhet (vertigo) og/eller oscillopsi som sammenfaller med stimulus i tid.
+    4.  Pulserende øresus.
+B.  Minst ett av følgende objektive funn forenlig med et tredje vindu i det indre øret:
+    1.  Nystagmus som er karakteristisk for stimulering eller hemming av den affiserte, øvre buegangen utløses av lyd eller av forandringer av mellomøretrykk eller intrakranielt trykk.
+    2.  Rentoneaudiometri viser negative benledningsterskler i bassområdet.
+    3.  Forsterkede vestibulære myogene potensialer (VEMP) på affisert side (lave cVEMP-terskler eller høye oVEMP-amplituder)
+C.  CT av tinningben tatt med tynne snitt og rekonstruksjon i flere plan bekrefter dehiscens av øvre buegang.
+D.  Sykdomsbildet kan ikke forklares bedre av en annen vestibulær sykdom eller tilstand.
+:::
+
+**Mål for behandling:** Best mulig funksjon med sykdommen. Behandle invalidiserende vertigo og hyperakusis.\
+**Behandling:** Kirurgisk okklusjon av den affiserte buegangen via midtre skallegrop eller transmastoidalt.\
+**Prognose:** Kirurgi er rapportert å gi god kontroll over de plagsomme audiovestibulære symptomene, men medfører risiko for økt hørselstap. Et flertall av pasientene fungerer akseptabelt uten kirurgi.

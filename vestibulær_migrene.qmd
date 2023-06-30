@@ -1,0 +1,33 @@
+## Vestibulær migrene {#sec-vestibulær_migrene}
+
+**ICD-10:** Migrene med aura (G43.1)\
+**ICD-11:** Vestibular migraine (AB31.1)\
+**Synonymer:** Eng. migraine associated vertigo, benign recurrent vertigo\
+**Forekomst:** Migrene er en av de vanligste årsakene til vertigo. Ettårsprevalens 0,89 % i Tyskland. Overført til Norge vil dette si at omtrent 41 000 nordmenn har migrenerelatert vertigo hvert år.\
+**Etiologi:** Etiologien ved migrene er ukjent. Arv spiller en rolle. I noen tilfeller kan symptomene knyttes til spesifikke mutasjoner i gener som koder for ionekanaler («kanalopatier»). Dette gjelder imidlertid foreløpig ikke de vanligste formene for migrene.\
+**Patogenese:** Patogenesen er uavklart, men aurasymptomene antas å være knyttet til en nærmest komplett depolarisering av store deler av nevronene i hjernebarken, som brer seg som en bølge over hjerneoverflaten med en hastighet på ca. 3 mm per minutt (eng. cortical spreading depression). Denne hastigheten samsvarer med den gradvise spredningen av aurasymptomer som f.eks. fortifikasjonsmønstre og flimmerskotomer. Hva som utløser denne depolariseringen og den karakteristiske migrenehodepinen er uavklart. Hjernen i seg selv inneholder ikke smertereseptorer, slik at smertene ved migrene antas å stamme fra hjernehinner og kar.\
+**Anamnese:** Se diagnostiske kriterier nedenfor. Vertigoanfallene er ofte dissosiert i tid fra hodepinen. For definisjon av migrenehodepine og aura vises til IHS-kriteriene nedenfor.\
+**Kliniske funn og supplerende undersøkelser:** I typiske tilfeller er det ingen funn mellom anfall. Nystagmus, inkludert posisjonsnystagmus kan være til stede under anfall.\
+**Diagnose:** Diagnostiske kriterier (International Headache Society (ICHD-3)[@Lempert2022]):
+
+::: diagnose
+*Klinisk sikker vestibulær migrene (A-D oppfylt):*
+
+A.  Minst fem anfall som tilfredsstiller kriteriene C og D
+B.  Nåværende eller tidligere [migrene med eller uten aura](#sec-migrene)
+C.  Vestibulære symptomer av moderat eller alvorlig intensitet som varer fra 5 minutter til 72 timer
+D.  Minst halvparten av anfallene er knyttet til minst ett av følgende migrenesymptomer:
+    1.  Hodepine med minst ett av følgende fire karakteristika:
+        1.  Ensidig smertelokalisasjon
+        2.  Pulserende kvalitet
+        3.  Moderat eller alvorlig intensitet
+        4.  Forverres av hverdagslig fysisk aktivitet
+    2.  Lys- og lydskyhet
+    3.  Visuell aura
+E.  Ikke mer forenlig med annen ICHD-3-diagnose eller annen vestibulær sykdom
+:::
+
+**Differensialdiagnoser:** Menières sykdom har karakteristisk hørselstap ved audiometri. Benign paroksysmal posisjonsvertigo gir kortvarige anfall, alltid utløst av hodebevegelser.\
+**Mål for behandling:** Lindre og forebygge migreneanfallene. Forebygge kronisk svimmelhet og komplikasjoner.\
+**Behandling:** *Ikke-medikamentell behandling:* Rådgivning. Eliminasjon av utløsende faktorer (stress, avslapning etter stress, uregelmessig søvn/måltider, diettfaktorer mm.). Avspenningsøvelser, fysioterapi ved nakkelidelser. *Ved anfall:* Avslapning i rolige og mørke omgivelser, eventuelt søvn. Kalde omslag eller ispose på pannen. *Anfallskuperende medikamentell behandling:* Store individuelle forskjeller i respons. Behandling av smertene har ikke nødvendigvis effekt mot vertigo. Triptaner har vanligvis dårlig effekt på vertigo, og forsiktighet bør utvises ved basilarismigrene. Proklorperazin kan forsøkes. *Profylaktisk medikamentell behandling:* Migreneprofylakse med betablokkere, kalsiumblokkere, klonazepam, pizotifen, valproat og antidepressiva har vært anbefalt, men det finnes foreløpig få studier på effekten av disse behandlingsformene ved migrenerelatert vertigo.\
+**Prognose:** Det finnes foreløpig få oppfølgningsstudier. Behandling er rapportert å gi komplett eller vesentlig symptomkontroll hos 80-90 % av pasientene.

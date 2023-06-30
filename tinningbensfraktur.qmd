@@ -1,0 +1,14 @@
+## Tinningbensfraktur {#sec-tinningbensfraktur}
+
+**ICD-10:** Brudd på skallebasis (S02.1)\
+**ICD-11:** Fracture of base of scull (NA02.1)\
+**Forekomst:** Ettårsinsidens ca. 8 : 100 000 i USA. Tilsvarer ca. 380 tilfeller i Norge per år. Tinningbensfrakturer utgjør ca. 18 % av alle kraniebrudd.\
+**Etiologi:** Tall fra USA[@Ishman2004]: Trafikkulykker 45 %, fallulykker 31 %, stump vold 11 %, skuddskader 6 %.\
+**Patogenese:** *Pars petrosa (12 %):* Labyrintdestruksjon, liquorré, facialisparese. *Mellomøre:* Dislokasjon av osikkekjeden, perilymfelekkasje, vertigo, hørselstap. *Stempling av mandibel-kondyl inn i øregang:*Øregangsstenose, kjeveleddsdysfunksjon. *Alle frakturer:* Commotio labyrinthi, vertigo, nevrogent hørselstap, benign paroksysmal posisjonsvertigo.\
+**Anamnese:** Blødning fra øret, hørselstap, tinnitus, vertigo (konstant eller paroksysmal posisjonsvertigo), facialisparese, liquorré.\
+**Kliniske funn:** *Otoskopi:* Øregangslaserasjon, blødning, liquorré, trommehinneruptur, dislokasjon av osikkelkjeden, hematotympanon. *Otonevrologi:* Lateralisering av Weber og spontannystagmus mot frisk side indikerer labyrintdestruksjon. Lateralisering av Weber mot syk side, posisjonsnystagmus og fravær av spontannystagmus indikerer bevart labyrintfunksjon. *Annet:* Facialisparese. Hodeimpulstest relativt kontraindisert i akuttfasen.\
+**Supplerende undersøkelser:** CT caput er indisert ved klinisk frakturmistanke. *Audiometri:* Nevrogent eller mekanisk hørselstap. *Kalorisk prøve:* Ikke i akuttfasen. Kanalparese ved labyrintdestruksjon.\
+**Diagnose:** Adekvat traume, hematotympanon og evt andre funn gir klinisk mistanke. CT bekrefter frakturlinje gjennom tinningbenet.\
+**Mål for behandling:** Forebygge og behandle komplikasjoner relatert til nevrogent hørselstap, vertigo, facialisparese, liquorré, meningitt.\
+**Behandling:** Konservativ behandling. *Progredierende facialisparese:* Kortikosteroider. Sjelden kirurgisk dekompresjon. Rekonstruktiv kirurgi kan vurderes ved permanent facialisparalyse (nervegraft, transposisjon av nerve/muskel). *Benign paroksysmal posisjonsvertigo:* Reposisjonsmanøver. *Brudd i osikkelkjeden:* Evt. eksplorasjon og osikkelplastikk i sen fase (etter måneder). *Liquorré/perilymfatisk fistel:*Vanligvis konservativ behandling initialt, evt. eksplorasjon og kirurgisk lukning.\
+**Prognose:** Frakturer gjennom pars petrosa har høyest risiko for kompliasjoner i form av permanent hørselstap, liquorré og facialisparese. Ved progredierende facialisparese er prognosen vanligvis god. Skader som oppstår i traumeøyeblikket (labyrintdestruksjon, facialisparese) er ofte permanente. Mortalitet ved tinningbensfraktur er 19 % i USA.

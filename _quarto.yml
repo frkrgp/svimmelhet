@@ -1,0 +1,95 @@
+project:
+  type: book
+  output-dir: _book
+  
+book:
+  title: "Svimmelhet - diagnostikk og behandling"
+  author: "Frederik Kragerud Goplen"
+  favicon: vertigokvartetten.png
+  sidebar:
+    collapse-level: 1
+    logo: vertigokvartetten.png
+    
+  site-url: https://frkrgp.github.io/svimmelhet.github.io
+  repo-url: https://github.com/frkrgp/svimmelhet.github.io
+  repo-branch: main
+  repo-actions: [edit, issue]
+  
+  chapters:
+  - index.qmd
+  - part: bakgrunn.qmd
+    chapters:
+    - balansesystemet.qmd
+    - likevektssansen.qmd
+    - patofysiologi.qmd
+    - klassifikasjon.qmd
+  - part: sykehistorien.qmd
+    chapters:
+    - spørreskjemaer.qmd
+  - part: klinisk_undersøkelse.qmd
+    chapters:
+    - nystagmus.qmd
+    - hodeimpulstest.qmd
+    - balanse.qmd
+    - hints.qmd
+    - dix_hallpike.qmd
+    - rullemanøver.qmd
+    - ører_og_hørsel.qmd
+    - fistelprøver.qmd
+  - part: utstyr_og_tester.qmd
+    chapters:
+    - supplerende_undersøkelser.qmd
+  - part: behandling.qmd
+    chapters:
+    - generelle_prinsipper_for_behandling.qmd
+  - part: "Problemstillinger"
+    chapters:
+    - akutt_vertigo.qmd
+    - kronisk_svimmelhet.qmd
+    - svimmelhet_og_fall_hos_eldre.qmd
+    - medikamenter_og_svimmelhet.qmd
+    - hjerneslag_og_svimmelhet.qmd
+    - barn_og_vertigo.qmd
+    - hjernesvulst_og_svimmelhet.qmd
+    - skader_og_svimmelhet.qmd
+  - part: "Diagnosekapitler"
+    chapters:
+    - alternobar_vertigo.qmd
+    - barotraume.qmd
+    - bppv.qmd
+    - bevegelsessyke.qmd
+    - bilateral_vestibulopati.qmd
+    - buegangsdehiscens.qmd
+    - commotio_labyrinthi.qmd
+    - labyrintitt.qmd
+    - landgangssyndrom.qmd
+    - lillehjerneinfarkt.qmd
+    - meniere.qmd
+    - migrene.qmd
+    - ortostatisk.qmd
+    - perilymfatisk_fistel.qmd
+    - ppps.qmd
+    - tinningbensfraktur.qmd
+    - vestibularisnevritt.qmd
+    - vestibulær_migrene.qmd
+    - vestibularisschwannom.qmd
+    - vestibulær_paroksysmi.qmd
+    - vestibulær_trykkfallsyke.qmd
+  - part: "Kilder"
+    chapters:
+    - andre_kilder.qmd
+    - referanser.qmd
+bibliography: referanser.bib
+
+csl: american-medical-association-10th-edition.csl
+
+resources: resources/papirmodell.pdf
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    number-sections: false
+
+editor:
+  render-on-save: true
+

@@ -1,0 +1,35 @@
+## Vestibulær paroksysmi {#sec-vestibulær_paroksysmi}
+
+**ICD-10:** Andre spesifiserte forstyrrelser i vestibularisfunksjonen (H81.8)\
+**ICD-11:** Vestibular paroxysmia (AB31.6)\
+**Forekomst:** Ukjent, men antakelig sjelden (prevalens \< 1:2000) ettersom bare enkeltkasus og små pasientserier er blitt publisert.\
+**Etiologi:** *Antatt årsak:* Irritasjon av nervus vestibularis fra arterie, tumor, cyste, demyelinisering, traume.\
+**Patogenese:** Antatt efaptisk impulstransmisjon mellom fibre i nervus vestibularis på grunn av skade på myelinskjeden.\
+**Anamnese:** *Debut:* Varierende. *Tidsforløp:* Korte anfall (sekunder til minutter) *Svimmelhetens karakter:*Vertigo med bevegelsesillusjon, anfallene her ofte stereotype hos den enkelte pasient. *Utløsende faktorer:* Ofte bestemte hodestillinger. Hyperventilasjon. *Ledsagende symptomer:* Hos enkelte: Tinnitus og hyperacusis.\
+**Kliniske funn:** Vertigoanfall ledsaget av nystagmus kan hos noen pasienter utløses av hodebevegelser og hyperventilasjon. Hos mange er klinisk undersøkelse normal.\
+**Supplerende undersøkelser:** *Audiometri:* Ensidig hørselstap på affisert side hos noen pasienter. *Kalorisk prøve/video-hodeimpulstest/vestibulære myogene potensialer:* Funn forenlig med ensidig vestibulopati hos noen pasienter. *MR (T1, CISS, FIESTA):* Kan identifisere blodkar i relasjon til 8. hjernenerve, men har lav spesifisitet.\
+**Diagnose:** Følgende er en oversettelse til norsk av diagnostiske kriterier publisert av den internasjonale konsensusgruppen for klassifikasjon av vestibulære sykdommer (ICVD) [@Strupp2016]:
+
+::: diagnose
+*Vestibulær paroksysmi (A-E oppfylt):*
+
+A.  Minst 10 anfall av spontan (uprovosert) vertigo (rotatorisk eller ikke-rotatorisk)
+B.  Anfallsvarighet \< 1 minutt
+C.  Anfallene er stereotype hos samme pasient
+D.  Respons på behandling med karbamazepin eller okskarbazepin
+E.  Ikke bedre forklart av annen diagnose
+
+*Sannsynlig vestibulær paroksysmi (A-E oppfylt):*
+
+A.  Minst 5 anfall av vertigo (rotatorisk eller ikke-rotatorisk)
+B.  Anfallsvarighet \< 5 minutter
+C.  Anfallene er spontane eller fremprovosert av bestemte hodebevegelser
+D.  Anfallene er stereotype hos samme pasient
+E.  Ikke bedre forklart av annen diagnose
+:::
+
+**Differensialdiagnoser:** *Menières sykdom:* Oftest mer langvarige anfall (20 minutter - 12 timer) og karakteristisk basstap ved audiometri. Mindre hyppige anfall (sjelden daglige over lengre tid). *Tumarkin-anfall*: Plutselige fall uten forvarsel i form av vertigo. *BPPV:* Karakteristisk nystagmus utløst av diagnostiske manøvre. *Buegangsdehiscens:* Autofoni, konduktivt hørselstap, vertigo og nystagmus utløst av valsalva, fistelprøver, lyder. *Okklusjon av vertebralarterie:* Vertigo og nystagmus oppstår ved langvarig hodevridning til en side. *Vestibulær migrene:* Hodepine, aura, lyd- og lysskyhet, andre migrenekarakteristika. Mer langvarige anfall. *Perilymfatisk fistel:* Symptomer utløst av trykk. Debut etter traume (dykking, hodetraume)\
+**Ansvarsfordeling:** Utredes i spesialisthelsetjenesten (vanligvis ØNH). Nevrologisk utredning og nevrokirurgisk behandling kan være aktuelt.\
+**Mål for behandling:** Lindring av vertigoanfall og eventuelle hørselssymptomer.\
+**Behandling:** *Medikamentell behandling:* Terapiforsøk med lav-dose karbamazepin (200---800 mg/dag) eller oksazepin (300---900 mg/dag) er ofte effektivt. *Mikrokirurgisk dekompresjon:* Kan vurderes i sikre tilfeller der det er utilstrekkelig effekt av medikamentell behandling eller der det er uakseptable bivirkninger av medikamentene.\
+**Prognose:** Det finnes ennå ikke gode behandlingsstudier med langtidsoppfølging. Hos barn og unge rapporteres i mange tilfeller god prognose med spontan remisjon. Et flertall av pasientene rapporteres å ha effekt av medikamentell behandling.

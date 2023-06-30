@@ -1,0 +1,11 @@
+## Barn og vertigo {#sec-barn}
+
+Barn med gjentatte vertigoanfall får oftest diagnosen [migrene](https://www.balanselaboratoriet.no/bookdown/_book/migrene-med-og-uten-aura.html#migrene-med-og-uten-aura) [@Wiener-Vacher2008]. [Benign paroksysmal posisjonsvertigo](#sec-bppv) og [Menières sykdom](#sec-meniere) synes å være sjeldne hos barn. Migrene hos barn er et uensartet fenomen der mange sykdomsbetegnelser forekommer og går over i hverandre. En kartlegging av utløsende faktorer («triggere») er en viktig del av behandlingen. Øyesykdommer, inkludert skjeling og brytningsforstyrrelse kan være medvirkende. Anfall av ustøhet som debuterer i småbarnsalderen kan være familiær episodisk ataksi. En diagnose som forekommer i IHS-klassifikasjonen av hodepineformer er «benign paroxysmal vertigo in childhood», som riktignok ikke medfører hodepine, men som kan gå over til migrene i voksen alder.
+
+Bakteriell [labyrintitt](#sec-labyrintitt) forekommer hos barn, særlig som komplikasjon til meningitt, og kan gi bilateral døvhet og tap av vestibulær funksjon. Tidlig operasjon med cochleaimplantat er viktig fordi labyrinten etter en tid forbenes slik at det blir umulig å føre elektroden inn i cochlea.
+
+Enkelte virussykdommer, bl.a. kusma, kan gi ensidig hørselstap hos barn. Øret kan bli helt døvt, og noen pasienter utvikler i voksen alder forsinket endolymfatisk hydrops med vertigoanfall som ligner [Menières sykdom](#sec-meniere).
+
+Andre årsaker til vertigo og hørselstap hos barn er medfødte øremisdannelser, inkludert utvidet vestibulær akvedukt, som kan gi progredierende cochleovestibulært funksjonstap i barnealderen og hodetraumer, som kan medføre [tinningbensfraktur](#sec-tinningbensfraktur), [commotio labyrinthi](#sec-commotio_labyrinthi), [benign paroksysmal posisjonsvertigo](#sec-bppv) og [perilymfatisk fistel](#sec-perilymfatisk_fistel).
+
+Siden vertigo hos barn har mange årsaker, krever utredningen av og til samarbeid mellom allmennlege, barnenevrolog, otolog og øyelege.

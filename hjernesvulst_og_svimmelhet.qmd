@@ -1,0 +1,5 @@
+## Hjernesvulst og svimmelhet {#sec-hjernesvulst}
+
+Hjernesvulst er en sjelden årsak til svimmelhet. En studie viste at 16 av 2091 unge voksne som ble undersøkt ved en vertigoklinikk for svimmelhet, hørselstap eller øresus, fikk påvist svulst i bakre skallegrop [@Chen2006]. I denne populasjonen var altså prevalensen av hjernesvulst 0,8 %. Man måtte undersøke 125 pasienter med billeddiagnostikk for å påvise én svulst. [Vestibularisschwannom](#sec-vestibularisschwannom) var vanligste funn etterfulgt av diverse mer sjeldne svulster som astrocytom, ependymom, gliom, epidermoid cyste og glomus jugulare-tumor.
+
+Symptomer som kan tale i retning av svulst i bakre skallegrop er først og fremst asymmetrisk hørselstap, hodepine, objektiv balanseforstyrrelse eller hjernenerveutfall. MR er beste metode for å diagnostisere intrakranielle svulster, men CT er et rimeligere og lettere tilgjengelig alternativ. Billeddiagnostikk hører i dag med til utredningen av pasienter med langvarig, progredierende eller uforklarlig svimmelhet.

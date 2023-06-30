@@ -1,0 +1,22 @@
+# Undersøkelsen {.unnumbered}
+
+I dette kapittelet vil du lære hvordan du kan undersøke pasienter med vestibulære sykdommer uten å måtte ty til avansert teknisk utstyr. Selv om det er en fordel å ha tilgang til nystagmusbriller, vil du også lære metoder for å undersøke nystagmus uten slike briller. Det anbefales at du har tilgang til otoskop og en stemmegaffel med frekvens på 256 Hz.
+
+Dette kapittelet retter seg hovedsakelig mot helsepersonell som jevnlig møter pasienter med akutte vestibulære sykdommer, for eksempel på legevakt, akuttmottak og sykehusavdelinger. For å lære deg teknikkene, bør du gripe enhver mulighet til å undersøke pasienter med akutt svimmelhet. Dette vil gradvis gi deg tilstrekkelig erfaring med å skille unormale funn fra det som er normalt. Pasienter med kroniske og episodiske vestibulære sykdommer har vanligvis mer subtile funn som er vanskeligere å oppdage og tolke riktig.
+
+Diagnostisering av vestibulære sykdommer krever målrettet undersøkelse av det vestibulære systemet og balansesystemet. Likevel må du først skaffe deg en overordnet forståelse av pasientens generelle helsetilstand, slik at du unngår å overse alvorlige tilstander.
+
+## Triage {#sec-triage}
+
+Første prioritet i pasientundersøkelsen er å oppdage og behandle alvorlige sykdommer. Du må derfor prioritere undersøkelse av livsviktige funksjoner (ABC: Airways, Breathing, Circulation). Undersøkelse av nervesystemet har også høy prioritet, spesielt fordi akutt svimmelhet kan være et tegn på hjerneslag.
+
+::: callout-important
+## Viktig: Vurder først pasientens generelle helsetilstand!
+-   Bevissthetsnivå, tale, ensidig lammelse, mental funksjon
+-   Luftveier, respirasjon, lungefysikalia, oksygenmetning
+-   Sirkulasjon, hudfarge, blodtrykk, puls, hjertelyder
+-   Allmentilstand: Smertepåvirket, kvalme, oppkast, uvelhet, feber
+-   Bevegelighet, balanse og gange
+:::
+
+Etter den første generelle vurderingen gjør du nærmere undersøkelser av aktuelle organsystemer etter behov. En orienterende nevrologisk undersøkelse vil ofte være nødvendig. Nevrologiske symptomer og funn er av stor betydning for den videre utredningen og behandlingen av pasienten. Ved mistanke om hjerneslag, bør pasienten om mulig innlegges for vurdering innenfor tidsvinduet for trombolyse (4½ time).

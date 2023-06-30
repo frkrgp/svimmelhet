@@ -1,0 +1,4 @@
+# Referanser {#sec-referanser}
+
+::: {#refs}
+:::

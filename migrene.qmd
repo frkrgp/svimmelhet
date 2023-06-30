@@ -1,0 +1,41 @@
+## Migrene med og uten aura {#sec-migrene}
+
+**ICD-10:** Migrene uten aura (G43.0), migrene med aura (G43.1)\
+**ICD-11:** Migraine without aura (8A80.0), migraine with aura (8A80.1)\
+**Merknad:** De internasjonale diagnostiske kriteriene for migrene med og uten aura er tatt med som supplement til omtalen av vestibulær migrene. For mer fullstendig omtale av migrene kan referansene benyttes [@NEL_migrene].\
+**Diagnose:** Følgende kriterier er er hentet fra *The International Classification of Headache Disorders (ICHD-3)* [@ICHD-3]:
+
+::: diagnose
+*Migrene uten aura:*
+
+A.  Minst 5 anfall som oppfyller kriteriene B-D
+B.  Hodepineanfall som varer i 4-72 timer (ubehandlet eller behandlet uten effekt)
+C.  Hodepinen har minst to av følgende fire karakteristika:
+    -   Ensidig smertelokalisasjon
+    -   Pulserende kvalitet
+    -   Moderat til alvorlig smertegrad
+    -   Forverres av, eller forårsaker unnvikelse av, daglige fysiske aktiviteter (f.eks. å gå eller gå opp en trapp)
+D.  Under hodepinen minst ett av følgende:
+    -   Kvalme og/eller brekninger
+    -   Lys- og lydskyhet
+E.  Ikke mer forenlig med annen ICHD-3-diagnose.
+
+*Migrene med aura:*
+
+A.  Minst to anfall som oppfyller kriteriene B og C
+B.  Ett eller flere av følgende fullstendig reversible aurasymptomer:
+    1.  Visuelt
+    2.  Sensorisk
+    3.  Tale/språk
+    4.  Motorisk
+    5.  Hjernestamme
+    6.  Retina
+C.  Minst tre av følgende seks karakteristika:
+    1.  Minst ett aurasymptom brer seg gradvis over ≥5 minutter
+    2.  To eller flere aurasymptomer oppstår etter hverandre
+    3.  Hvert enkelt aurasymptom varer i 5-60 minutter
+    4.  Minst ett av aurasymptomene er unilateralt
+    5.  Minst ett av aurasymptomene er positivt
+    6.  Aurasymptomene er ledsaget, eller etterfulgt innen 60 minutter, av hodepine
+D.  Ikke mer forenlig med annen ICHD-3-diagnose.
+:::

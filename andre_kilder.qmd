@@ -1,0 +1,17 @@
+# Andre kilder til informasjon {#sec-kilder}
+
+Denne elektroniske læreboken er supplert med referanser til originale forskningsartikler og oversiktsartikler som underbygger rådene som gis.
+
+Den kritiske leser vil ønske å sammenligne disse rådene med råd fra andre lands nasjonale myndigheter, fagmedisinske foreninger og andre fagfellevurderte publikasjonskanaler.
+
+-   [UpToDate](https://www.uptodate.com/) eies av forlaget Wolters Kluwer og tilbyr abonnement på fagfellevurderte artikler om mange av de kliniske problemstillingene og diagnosene som omtales i denne boken. Mange norske helseinstitusjoner tilbyr gratis tilgang til UpToDate for sine ansatte.
+
+-   [National Institute for Health and Care Excellence (NICE)](https://www.nice.org.uk/) utarbeider og publisererer kliniske retningslinjer på oppdrag fra de britiske helsemyndighetene. Noen av retningslinjene er beskyttet og kun tilgjengelige for brukere med britiske ip-adresser. Andre er også tilgjengelige internasjonalt, og dette gjelder ofte retningslinjene som har bredest relevans, blant annet generelle [råd om utredning og behandling av nevrologiske symptomer](https://www.nice.org.uk/guidance/ng127), inkludert svimmelhet.
+
+-   [Menières sykdom](#sec-meniere) er et utfordrende tema å forske på. Fordi sykdommen har et langvarig og fluktuerende forløp, kreves det mange pasienter og lang oppfølgingstid. Det er publisert flere retningslinjer for diagnostikk og behandling, og lenker til disse finnes på siden om [Menières sykdom](#sec-meniere).
+
+-   [Bárány Society](https://www.thebaranysociety.org/) har utarbeidet en serie med artikler som omtaler mange av de vestibulære sykdommene, spesielt med hensyn til diagnostiske kriterier. Disse er tilgjengelig gratis fra [Journal of Vestibular Research](http://www.jvr-web.org/ICVD.html).
+
+-   [American Academy of Otolaryngology & Head and Neck Surgery](https://www.entnet.org/content/clinical-practice-guidelines) har utarbeidet kliniske retningslinjer for flere sykdommer, inkludert benign paroksysmal posisjonsvertigo og Menières sykdom.
+
+-   [Handbook of clinical neurology](https://www.sciencedirect.com/handbook/handbook-of-clinical-neurology/vol/137/suppl/C) er en bokserie som publiseres av ScienceDirect. I 2016 kom det ut en håndbok i nevro-otologi, som også er tilgjengelig elektronisk, der noen av verdens fremste spesialister innen sine felt har tatt for seg ulike aspekter ved de vestibulære sykdommene. Boken er dessverre ikke tilgjengelig gratis.

@@ -1,0 +1,88 @@
+## Sykehistorien {#sec-sykehistorien}
+
+I dette kapittelet får du lære en generell metode for vurdering av pasienter med vestibulære symptomer som svimmelhet og ustøhet. Metoden tar utgangspunkt i TiTrATE-algoritmen for utredning av akutt vertigo[@Newman-Toker2015] og Verdens helseorganisasjon sin [klassifikasjon](#sec-klassifikasjon) av svimmelhetssyndromer (ICD-11). Diagnostikk av konkrete sykdommer og tilstander er beskrevet i mer detalj i diagnosekapitlene i denne boken.
+
+Når mange opplysninger skal samles inn og vurderes, er det svært mye å vinne på en systematisk tilnærming. Det anbefales å bruke [spørreskjemaer](#0) for å sikre kvaliteten på de pasient-rapporterte opplysningene i journalen og gjøre pasientsamtalen mer fokusert og effektiv.
+
+## Prioritering av symptomer (triage)
+
+Første prioritet i møte med pasienter som søker hjelp for svimmelhetsplager er å avdekke alvorlig underliggende sykdom. Hos pasienter som er blitt akutt syke, vil det i mange tilfeller være riktig å fokusere på mer alvorlige symptomer før man går nærmere inn på svimmelhetssymptomene.
+
+::: callout-important
+## Viktig: Vurder først symptomer på alvorlig underliggende sykdom!
+
+-   Hjerte-karsystemet: Brystsmerter, tungpust, hjertebank, synkopetendens
+-   Sentralnervesystemet: Ensidig lammelse, talevansker, kognitiv svikt, prikking, stikking, nummenhet i ansikt eller ekstremiteter, koordinasjonsvansker, hodepine
+-   Hørselstap, synsforstyrrelser, kvalme, brekninger, feber
+:::
+
+Det er også viktig å notere viktige bakgrunnsopplysninger om tidligere sykdommer, medikamentbruk, allergier og kjente arvelige sykdommer. Et hjelpemiddel for gradering av risiko for hjerneslag ved TIA-symptomer er [ABCD~2~-skalaen](#sec-abcd2).
+
+## Tidsforløp {#sec-tidsforløp}
+
+Nå er det tid for å klartlegge svimmelhetssymptomene. Begynn med å få en oversikt over tidsforløpet med særlig vekt på når svimmelhetssymptomene oppsto, om de kom akutt eller gradvis, om de er episodiske (anfall eller perioder) eller konstante over tid. Hvis pasienten rapporterer episodiske plager, er det viktig å finne ut hvor lenge episodene varer. Etter den innledende samtalen kan hovedproblemet ofte kategoriseres som akutt, episodisk eller kronisk, og dette har stor praktisk og diagnostisk betydning for håndteringen videre. Bruk lenkene i tabellen nedenfor for å lese mer om de ulike tidsforløpene og aktuelle diffensialdiagnoser.
+
+|                                                 |                                                                                                                                                                                                                                                                                                                                                 |
+|-------------------|-----------------------------------------------------|
+| [Akutt vestibulært syndrom](#sec-akutt)         | Pasienten er plutselig svimmel og uvel uten klar årsak. Symptomene vedvarer og er uvanlig kraftige (for pasienten). Kvalme og oppkast er vanlig. Noen har nystagmus, hørselssymptomer eller andre nevrologiske symptomer. Viktige differensialdiagnoser er vestibularisnevritt, hjerneslag, labyrintitt. Utredes som øyeblikkelig hjelp.        |
+| [Episodisk vestibulært syndrom](#sec-episodisk) | Gjentatte episoder med svimmelhet og uvelhet. Varigheten av episodene er viktig for diagnosen. Viktige differensialdiagnoser er blant annet BPPV, Menières sykdom, migrene og hemodynamisk ortostatisk svimmelhet. Disse sykdommene er ufarlige, men kan ha negativ innvirkning på livskvalitet og funksjon. Rask utredning er derfor ønskelig. |
+| [Kronisk vestibulært syndrom](#sec-kronisk)     | Svimmelhet og ustøhet som vedvarer over lengre tid og er til stede nesten hver dag. Vanligvis brukes betegnelsen "kronisk" når symptomene er til stede mer enn 50 % av dagene og har vart i 3 måneder eller mer. Pasientene har ofte behov for langsiktig rehabilitering.                                                                       |
+
+: Inndeling av svimmelhetssyndromer etter tidsforløp {tbl-colwidths="\[38,62\]"}
+
+Pasienter med langvarige symptomer kan ofte ha kombinasjoner av de tre ovennevnte forløpene. For eksempel kan mange pasienter med kroniske vestibulære symptomer fortelle om en akutt hendelse i starten av forløpet eller om tidligere episoder. Det er da først og fremst viktig å håndtere de aktuelle symptomene.
+
+## Utløsende faktorer (triggere) {#sec-utløsende}
+
+Så snart det er avklart om det aktuelle problemet i hovedsak er akutt, episodisk eller kronisk, er det viktig å finne ut hva som utløste eller utløser symptomene.
+
+Utløsende hendelser helt i starten av sykdomsforløpet kan være traume, infeksjonssykdommer, påkjenninger i arbeid eller privatliv, andre sykdommer, endring i medikamentbruk mm. Svimmelhet i forbindelse med øresykdom (otogen vertigo) kan utløses av traume, f.eks. ved stumpt hodetraume eller trykkskade bl.a. ved dykking. Det er spesielt viktig å merke seg at BPPV er svært vanlig etter minimale til moderate hodetraumer[@Andersson2022].
+
+Hendelser eller aktiviteter som gjentatte ganger utløser symptomene kan være bestemte hodebevegelser, å reise seg raskt opp, passive bevegelser, synsinntrykk, fysisk anstrengelse, trykk, lys, lyder, stress mm. Triggere som kan antyde øresykdom er særlig hodebevegelser samt lyder og trykk ved buegangsdehiscens, perilymfatisk fistel og alternobar vertigo. I disse tilfellene er det viktig å stille kontrollspørsmål for å avklare nøyaktig hvilke hodebevegelser som utløser symptomene, samt eventuelt hvilke lyder eller trykkstimuli. Det er også viktig å vite om det er nær sammenheng i tid mellom stimulus (trigger) og respons (vertigo, falltendens), og dette bør også kunne reproduseres ved den kliniske undersøkelsen, f.eks. ved Dix-Hallpikes manøver eller ved fistelprøver. At et stimulus utløser ubehag gir i seg selv mer usikker diagnostisk informasjon.
+
+Medikamentbruk er en vanlig årsak til svimmelhet. Ofte dreier dette seg om [hemodynamisk ortostatisk svimmelhet](#sec-ortostatisk), som er vanlig blant annet ved bruk av antihypertensiva, men svimmelhet kan også skyldes effekter på sentralnervesystemet. En kartlegging av pasientens medikamentbruk hører derfor med i anamnesen. Svimmelhet eller balanseproblemer som debuterer under behandling med aminoglykosider skyldes [bilateral vestibulopati](#sec-bilateral) inntil det motsatte er bevist, uavhengig om det samtidig foreligger hørselsaffeksjon.
+
+| Stimulus                                        | Diagnose(r)                                                 | Test                                                     |
+|---------------------|--------------------------|-------------------------|
+| Å legge seg ned eller snu seg i sengen          | BPPV                                                        | Dix-Hallpikes manøver, rulletest                         |
+| Å reise seg raskt fra liggende stilling         | Hemodynamisk ortostatisk svimmelhet                         | Ortostatisk BT og puls-måling                            |
+| Hodebevegelser generelt                         | PPPS, kronisk ensidig eller bilateral vestibulopati         | Video-hodeimpulstest                                     |
+| Kraftige basslyder                              | Buegangsdehiscens                                           | Tullio-test                                              |
+| Skarpe, plutselige lyder                        | Hyperakusis, migrene                                        | Ubehagsterskler                                          |
+| Valsalvas manøver, hosting, nesepussing         | Buegangsdehiscens, perilymfatisk fistel, alternobar vertigo | Fistelprøver (Henneberts tegn, Valsalva)                 |
+| Endring i omgivelsestrykk                       | Tubedysfunksjon                                             | Tympanometri, audiometri, otomikroskopi med Siegels test |
+| Fysisk anstrengelse                             | Migrene, kronisk utmattelse                                 |                                                          |
+| Bevegelser i synsfeltet (optokinetiske stimuli) | PPPS, migrene                                               | Optokinetisk etternystagmus                              |
+| Passive bevegelser                              | PPPS, bevegelsessyke, migrene                               |                                                          |
+
+: Utløsende faktorer (triggere) ved svimmelhet og balanseforstyrrelser
+
+Mange vestibulære sykdommer oppstår spontant uten at pasienten kan angi noen bestemt utløsende hendelse. Dette gjelder blant annet viktige årsaker til akutt vertigo, som hjerneslag og vestibularisnevritt, til episodisk vertigo, som Menières sykdom, eller kronisk svimmelhet som vestibularisschwannom eller nevrodegenerative sykdommer. Det er derfor også viktig å få fram om symptomene oppstår spontant.
+
+## Svimmelhetens karakter {#sec-svimmelhetens_karakter}
+
+Svimmelhet er notorisk vanskelig å beskrive. Når man begynner samtalen omkring symptomdebut, er det viktig å få med seg den spontane beskrivelsen av svimmelheten uten å legge ord i munnen på pasienten.
+
+Vertigo er en bevegelsesillusjon, dvs. en følelse av at en selv eller omgivelsene beveger seg uten at noen reell bevegelse finner sted. Vertigo kan også bety en feiloppfattelse av reell bevegelse, men dette er det vanskeligere å få en entydig beskrivelse av. Vertigo er det mest karakteristiske symptomet ved vestibulære sykdommer. Vestibulær vertigo ledsages av [nystagmus](#sec-nystagmus) som medfører en kraftig visuell bevegelsesillusjon («alt snurrer rundt», «alt seiler», «rommet kommer imot meg»).
+
+Nærsynkope er vanskeligere å beskrive, men kjennetegnes av at den hovedsakelig oppstår i oppreist stilling og gir seg relativt raskt i liggende stilling. Nærsynkope bør mistenkes særlig hos eldre som opplever svimmelhet, fall eller synkoper.
+
+Dårlig gangfunksjon med ustøhet og frykt for å falle kan av og til beskrives som svimmelhet av pasientene. I disse tilfellene bør man i første rekke vurdere nevrologisk bevegelsesforstyrrelse eller balanseproblem forårsaket av alderdom og fysisk inaktivitet.
+
+Svimmelhet som hovedsakelig består av svetting, angst, hjertebank, tremor og dyspné kan være psykogen, men kan også være tegn på underliggende organisk sykdom.
+
+## Ledsagende symptomer {#sec-ledsagende}
+
+Ledsagende symptomer er symptomer som oppstår omtrent samtidig med svimmelheten, og der det antas å være en kausal sammenheng. Slike symptomer er svært verdifulle i diagnostikken.
+
+Hørselstap, tinnitus eller trykk i øret kan indikere sykdom i det indre øret, f.eks. [labyrintitt](#sec-labyrintitt), [Menières sykdom,](#sec-meniere) [perilymfatisk fistel](#sec-perilymfatisk_fistel) eller [dehiscens](#sec-buegangsdehiscens) av den benete labyrinten. Også [migrene](#sec-migrene) kan gi hørselsfenomener i aurafasen eller trykkfølelse i øret. [Vestibularisschwannom](#sec-vestibularisschwannom) kan være årsak til gradvis innsettende (og en sjelden gang akutt) ensidig hørselstap og tinnitus. [Hjernestammeinfarkt](#sec-hjerneslag), særlig i forsyningsområdet til arteria cerebelli inferior anterior (ACIA), kan gi akutt vertigo og hørselstap.
+
+Smerter som opptrer samtidig med vertigo kan ha stor betydning. Hodepine kan være symptom på [hjerneslag](#sec-hjerneslag) og [migrene](#sec-migrene). Brystsmerter gir mistanke om angina eller hjerteinfarkt. Vertigo og otitt tilsier [labyrintitt](#sec-labyrintitt), og innleggelse for intravenøs antibiotikabehandling og kirurgisk sanering av infeksjon i mellomøret kan være nødvendig.
+
+Facialisparese med vesikulært utslett i det ytre øret kalles [Ramsay-Hunt-syndrom](#sec-labyrintitt) og skyldes herpes zoster. Syndromet kan være kombinert med nevrogent hørselstap og vertigo.
+
+Nevrologiske symptomer som pareser, sensibilitetsutfall, parestesier eller koordinasjonsforstyrrelser (dysmetri, ataksi, dysdiadokokinesi) gir naturlig nok mistanke om sentral årsak. Talevansker, dysartri eller svelgvansker som opptrer samtidig med vertigo bør gi mistanke om lesjon i hjernestammen. Hodepine, lysskyhet, lydskyhet og synsforstyrrelser kan indikere at vertigo er relatert til [migrene](#sec-migrene). Hodepinen opptrer ikke nødvendigvis samtidig med vertigoanfallene hos migrenepasienter. Migrene bør også vurderes ved gjentatte anfall av isolert vertigo av minutter til timers varighet uten hørselstap.
+
+Kvalme og brekninger er nesten alltid til stede ved [vestibularisnevritt](#sec-vestibularisnevritt), [labyrintitt](#sec-labyrintitt) og [Menièreanfall](#sec-meniere). Kvalme og brekninger er imidlertid også vanlig ved mange andre tilstander, inkludert [lillehjerneinfarkt](#sec-lillehjerneinfarkt) og [migrene](#sec-migrene). Ved [benign paroksysmal posisjonsvertigo](#sec-bppv) er kvalmen vanligvis mindre uttalt, fordi anfallene er kortvarige. Det er imidlertid store individuelle forskjeller når det gjelder grad av kvalme ved vestibulære sykdommer. Personer med [migrene](#sec-migrene), tendens til [bevegelsessyke](#sec-bevegelsessyke) eller kvalme ved menstruasjon/graviditet, er også mer utsatt for å bli kvalme og kaste opp ved vestibulær sykdom. Personer som aldri blir kvalme til sjøs vil heller ikke nødvendigvis bli spesielt kvalme ved vestibulær sykdom.
+
+Fall hos [eldre](#sec-eldre) kan skyldes synkope og er ofte relatert til [ortostatisk hypotensjon](#sec-ortostatisk). Falltendens til en bestemt side ses ved en del vestibulære og andre sentralnervøse tilstander. Ved akutte tilstander som [vestibularisnevritt](#sec-vestibularisnevritt), [lillehjerneinfarkt](#sec-lillehjerneinfarkt), [Menière-anfall](#sec-meniere) el.l. vil pasienten ofte ha store problemer med å gå. Synkope er imidlertid uvanlig ved vestibulære sykdommer.

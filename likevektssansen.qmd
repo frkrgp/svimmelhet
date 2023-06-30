@@ -1,0 +1,37 @@
+# Likevektssansen {#likevektssansen}
+
+Det vestibulære systemet omfatter balanseorganet i det indre øret, balansenerven og dens forbindelser i hjernen. Funksjonen til dette systemet er å gi hjernen rask og presis informasjon om hodets stilling og bevegelser og på den måten utløse hensiktsmessige posturale, okulomotoriske, perseptive og vegetative responser. Sentralen i systemet er vestibulariskjernene, som strekker seg over et stort område i bunnen av 4. ventrikkel i hjernestammen. Nevronene i vestibulariskjernene påvirkes særlig av afferenter fra balanseorganet og lillehjernen. Blant kjernenes mange efferente forbindelser er det særlig fire som har stor praktisk betydning:
+
+1.  Internevroner til øyemuskelkjernene muliggjør skarpt syn under gange og løping. Forbindelsen mellom balanseorganet og øyemuskelkjernene kalles den vestibulookulære refleksen. Denne refleksen forårsaker nystagmus ved vestibulære sykdommer.
+
+2.  Forbindelser til brekningsenteret i hjernestammen gjør det mulig å tømme magesekken for skadelig innhold. Disse forbindelsene forårsaker kvalme og brekninger ved vestibulære sykdommer. En teori går ut på at dette er en beskyttelsesmekanisme mot inntak av nevrotoksiner som finnes i enkelte planter.
+
+3.  Forbindelser til hjernebarken muliggjør bevisst kontroll av balansen. Ved vestibulære sykdommer er det disse forbindelsene som forårsaker vertigo, dvs. illusjonen av å være i bevegelse.
+
+4.  Forbindelser til ryggmargen bidrar til oppreist stilling og bevegelse gjennom den vestibulospinale refleksen. Ved vestibulære sykdommer fører asymmetrisk tonus i den proksimale skjelettmuskulaturen til falltendens.
+
+## Det indre øret {#sec-det_indre_øret}
+
+Hårcellene i det indre øret er mekanoreseptorer som muliggjør oppfattelse av lyd og hodebevegelser. Når stereociliene på celleoverflaten avbøyes, endres reseptorpotensialet. Reseptorpotensialet påvirker i sin tur impulsfrekvensen i balansenerven.
+
+![Hårcellene i det indre øret har en elektrisk ladning, et reseptorpotensial, i hvile. Nevronene i 8. hjernenerve, som danner synapser til hårcellen har en hvileaktivitet på ca. 90 impulser per sekund (a). Når ciliene bøyes i retning av kinocilien, depolariseres cellen, og impulsfrekvensen i det tilsluttede nevronet øker (b). Når ciliene bøyes vekk fra kinocilien, hyperpolariseres cellen, og impulsfrekvensen i nerven reduseres (c).](images/reseptorer.png){style="padding: 40px" width="80%"}
+
+Den membranøse labyrinten er et lukket, sammenhengende system av rør og sekker som inneholder sanseorganene for hørsel og balanse. Labyrintens tre sekker er sacculus, utriculus og saccus endolymfaticus. Rørene er de tre buegangene, ductus cochlearis og ductus endolymphaticus. Den membranøse labyrinten er fylt av endolymfe og omgitt av perilymfe. Det hele ligger beskyttet i den benete labyrinten, som er et hulrom i den harde delen (pars petrosa) av tinningbenet.
+
+Labyrinten i det indre øret inneholder fem ulike balanseorganer. De tre buegangene er organisert omtrent 90 grader på hverandre og registrerer hoderotasjon i tre plan. De to otolittorganene, utriculus og sacculus, står også omtrent 90 grader på hverandre og registrerer lineær akselerasjon i tillegg til tyngdekraftens retning i forhold til hodet.
+
+![Tre bueganger registrerer hoderotasjoner i tre plan. Den laterale eller horisontale buegangen står i virkeligheten ca. 30 grader opp i forhold til horisontalplanet. De to vertikale buegangene, den fremre (øvre) og bakre, danner en 90-graders vinkel som åpner seg lateralt. Fremre buegang på en side er i plan med bakre på motsatt side.](images/orientering.png){style="padding: 40px" width="80%"}
+
+Buegangene er organisert parvis slik at enhver hodebevegelse påvirker minst to bueganger. Hodedreining i horisontalplanet (fra side til side) stimulerer den laterale buegangen på den siden hodet dreies mot, mens den laterale buegangen på motsatt side hemmes. Hodedreining i vertikalplanet påvirker alle de fire vertikale buegangene. Når hodet vippes bakover, som når man ser opp, stimuleres begge de bakre buegangene, mens de fremre hemmes. Det motsatte skjer når hodet vippes fremover, som når man ser ned.
+
+Gange og løping fører til hurtige, passive hodebevegelser, både translasjoner og rotasjoner, som er et problem for øyet. Særlig rotasjonene ville ha gitt svært uskarpt syn dersom bildet av omverdenen hadde beveget seg raskt frem og tilbake over netthinnen. Problemet motvirkes gjennom et komplisert samspill mellom buegangene i det indre øret og de ekstraokulære musklene. Hoderotasjonene registreres av buegangene, og kompensatoriske øyebevegelser iverksettes slik at bildet av omverdenen holdes stabilt på netthinnen. Denne vestibulookulære refleksen er av stor praktisk og klinisk betydning ved diagnostikk av svimmelhet. Refleksbuen er svært rask fordi den kun består av tre nevroner, et sensorisk, et motorisk og et internevron. Vestibulære sykdommer fører ofte til et fenomen som kalles oscillopsi, dvs. at bildet av omgivelsene hopper ved gange og løping.
+
+Et viktig moment i organiseringen av den vestibulookulære refleksen er at stimulering eller hemming av en buegang alltid fører til kompensatoriske øyebevegelser i plan med den samme buegangen (Ewalds første lov). Dette har blant annet klinisk relevans i diagnostikken av [benign paroksysmal posisjonsvertigo](#sec-bppv), der horisontal nystagmus betyr affeksjon av den horisontale mens oppadslående og rotatorisk nystagmus betyr affeksjon av den bakre buegangen.
+
+## Om balanseorganet i dyreriket {#sec-dyreriket}
+
+Tyngdekraften spiller en så avgjørende rolle for alt liv på jorden at nesten alle dyr har utviklet organer som gjør dem i stand til å orientere seg i forhold til tyngdekraften. Det enkleste av disse organene er en liten blære (statocyst) som er kledd innvendig med hårceller og som inneholder sandkorn. Hårcellene gjør det mulig for dyret å kjenne hvilken vei sandkornene ligger. Denne typen balanseorgan vil også kunne reagere på kraftig lyd, og er sannsynligvis en forløper til hørselsorganet. Mange sjødyr, blant annet maneter og reker, er utstyrt med statocyster. De mer avanserte øresteinsorganene som ses hos virveldyr er sannsynligvis en videreutvikling fra disse primitive balanseorganene.
+
+Man tror også at disse enkle sanserorganene er opprinnelsen til det mer avanserte indre øret som ses hos virveldyr. Fra 400 - 350 millioner år gamle fossiler kjenner vi til primitive, kjeveløse fisk som hadde vertikale bueganger i det indre øret som gjorde dem i stand til å oppfatte hoderotasjon og som var koblet til øyemuskler som kunne bevege øynene avhengig av dyrets bevegelser. Slike bueganger som står i forbindelse med bevegelige øyne er også utviklet hos krabber og enkelte typer blekksprut. At slike systemer har utviklet seg hos ulike dyrerekker (ryggstrengdyr, leddyr, bløtdyr) uavhengig av hverandre tyder på at de gir et stort utviklingsmessig fortrinn ved at de muliggjør skarpt syn under bevegelse.
+
+Hos pattedyr har det indre øret selvfølgelig også utviklet seg til et avansert hørselsorgan, som for eksempel hos flaggermus, som benytter ultralyd og ekkolokalisering til å fly i flokk gjennom mørke huler eller hos mennesker, som kan bruke tale til å formidle komplekse ideer.

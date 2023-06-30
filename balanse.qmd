@@ -1,0 +1,24 @@
+# Balanse og koordinasjon
+
+## Undersøkelse av balanse {#sec-balanse}
+
+Balansen undersøkes i sittende stilling, stående stilling og ved gange. Det er ofte en sammenheng mellom graden av ubalanse og alvoret i den underliggende sykdommen:
+
+- Uttalt falltendens er mest alvorlig, og kan manifestere seg gjennom at pasienten ikke klarer å sitte uten støtte eller ikke klarer å stå på bena.
+
+- Lettere ustøhet er mer typisk for de perifere, vestibulære sykdommene, som for eksempel vestibularisnevritt. Pasienten vil ofte ha en tendens til å gå eller falle mot den syke (paretiske) siden i akuttfasen. Pasienten kan være svært kvalm og brekke seg ved forsøk på å sette seg opp. Likevel vil pasienten, etter et forsøk eller to, vanligvis klare å stå på bena uten støtte (eventuelt litt bredbent) med øynene lukket. Pasienter med BPPV vil oftest klare å gå uten støtte hvis man lar dem sitte oppreist noen minutter i ro først.
+
+Også hos pasienter med episodiske eller kroniske vestibulære sykdommer er balanseundersøkelsen viktig. Rene perifere, vestibulære sykdommer gir vanligvis mindre uttalt ustøhet enn sentrale eller funksjonelle tilstander. Ved å gjøre disse undersøkelsene rutinemessig på pasienter med svimmelhet og ustøhet, vil du etter hvert få god erfaring i å skille ulike typer balanseproblem fra hverandre.
+
+### Gange på linje (tå-hæl-gange)
+Be pasienten tenke seg en linje på gulvet uten å se på linjen. Be pasienten om å gå på linjen med så korte skritt som mulig, slik at hælen plasseres helt inntil stortåen for hvert skritt. Be pasienten om å se rett fram under denne øvelsen.
+
+### Rombergs prøve
+Be pasienten om å stå i ro med bena helt samlet og armene ned langs siden og blikket rett fremover. Be deretter pasienten om å lukke øynene, samtidig som du står klar til å støtte pasienten og forhindre fall. Uttalt ustøhet og falltendens med lukkede øyne kan være et tegn på proprioseptiv svikt, for eksempel ved sykdommer i bakstrengene av ryggmargen.
+
+### Skjerpet Romberg
+Denne utføres som Rombergs prøve, men pasienten står med føttene på linje (tå mot hæl). Dette er en vanskelig test.
+
+## Koordinasjon {#sec-koordinasjon}
+
+Lillehjernens funksjon kan undersøkes ved å observere tempo og presisjon i ekstremitetene. Presisjon kan undersøkes med finger-nese- og kne-hælprøve. Tempo, særlig hurtig alternerende bevegelser (diadokokinesi), kan undersøkes ved å be pasienten om å utføre raske pronasjons- og supinasjonsbevegelser med hendene. En spesielt relevant undersøkelse ved svimmelhet er okulær følgetest, der pasienten skal følge et objekt i jevn bevegelse med øynene. Undersøkeren beveger fingeren langsomt fra side til side foran pasientens øyne. Svært hakkete bevegelser kan ses ved degenerative tilstander eller skader i lillehjernen.

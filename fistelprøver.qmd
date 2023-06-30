@@ -1,0 +1,9 @@
+# Fistelprøver {#sec-fistelprøver}
+
+Fistelprøver er undersøkelser som brukes for å sannsynliggjøre sykdommer i det indre øret som perilymfatisk fistel og buegangsdehiscens. Dette er relativt uvanlige årsaker til hørselstap og vertigo, som er omtalt i egne diagnosekapitler.
+
+## Tragustrykk (Henneberts tegn)
+Fast trykk mot flippen foran øregangen (tragus) øker trykket i øregangen og mellomøret, og kan hos noen pasienter utløse vertigo og nystagmus. Testen kan være nyttig hos pasienter med vertigo på grunn av kolesteatom med buegangsfistel, men brukes også for å utløse nystagmus ved dehiscens av øvre buegangen. Testen har imidlertid relativt lav sensitivitet ɔ: lav andel med positivt testresultat i pasientgruppen.
+
+## Valsalvas manøver
+Valsalvas manøver utføres ved å blåse i nesen samtidig som man kniper igjen nesen slik at luft ikke slipper ut. Dette øker det intrakranielle trykket samt trykket i mellomøret, dersom man får luft opp via tuba auditiva. Begge deler kan utløse vertigo og nystagmus ved sykdommer som buegangsdehiscens og perilymfatisk fistel. Valsalvas manøver kan også utløse alternobar vertigo hos noen.

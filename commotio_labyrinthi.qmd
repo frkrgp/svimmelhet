@@ -1,0 +1,16 @@
+## Commotio labyrinthi {#sec-commotio_labyrinthi}
+
+**ICD-10:** Skade på nervus vestibulocochlearis (S04.6)\
+**ICD-11:** Injury of middle or inner ear (NA0C)\
+**Synonymer:** Eng. labyrinthine concussion.\
+**Forekomst:** Vanlig. Eksakt forekomst ukjent.\
+**Etiologi:** Hodetraume, vanligvis med bevissthetstap eller direkte traume mot tinningbenet, eventuelt på motsatt side. Nakkeslengskade (mindre vanlig) [@Szczupak2016].\
+**Patogenese:** *Perifer skade (vanligst):* Mindre overrivning av membranstrukturer i det indre øret. *Sentral skade:* Strekk på hjernestamme og 8. hjernenerve [@Fitzgerald1996].\
+**Anamnese:** *Debut:* Vertigo og/eller hørselstap i forbindelse med adekvat traume (se etiologi). Ved posttraumatisk benign paroksysmal posisjonsvertigo kan det være et symptomfritt intervall. *Tidsforløp:*Konstant eller anfallsvis vertigo. Ofte spontan bedring. *Svimmelhetens karakter:* Rotatorisk eller nautisk vertigo. *Ledsagende symptomer:* Kvalme, oppkast, falltendens. *Utløsende faktorer:* Konstant eller utløst av hodebevegelser.\
+**Kliniske funn:** *Stemmegaffelprøve (Weber):* Lateralisering mot det friske øret. *Nystagmusprøver:*Spontannystagmus mot det friske øret. *Dix-Hallpikes manøver:* Posisjonsnystagmus. *Hodeimpulstest (ikke i akuttfasen):* Patologisk respons til syk side.\
+**Supplerende undersøkelser:** CT caput er indisert for å avdekke eventuell basisfraktur. *Audiometri:*Nevrogent hørselstap. *Kalorisk prøve (sjelden indisert i akuttfasen):* Kanalparese.\
+**Diagnose:** Diagnosen stilles ved nevrogent hørselstap, vertigo eller spontannystagmus etter hodetraume uten tinningbensfraktur eller mellomøreskade. Benign paroksysmal posisjonsvertigo: Se eget kapittel. Differensialdiagnostikk i forhold til traumatisk perilymfatisk fistel kan være vanskelig. Ved progredierende eller trykkrelaterte symptomer bør tilstanden behandles som perilymfatisk fistel.\
+**Ansvarsfordeling:** Hørselstap og vertigo etter et hodetraume bør føre til mistanke om commotio labyrinthi, og pasienten skal utredes av øre-nese-halslege.\
+**Mål for behandling:** Lindre symptomer i akuttfasen. Forkorte sykdomsforløp. Behandle vertigo. Forebygge hørselstap og utvikling av kronisk svimmelhet.\
+**Behandling:** Benign paroksysmal posisjonsvertigo og perilymfatisk fistel: Se egne kapitler. I akuttfasen (1-3 dager): Informere og berolige pasienten for å dempe angst, lindre symptomene ved sengeleie og ro. Evt. antiemetika, f.eks. proklorperazin 25 mg supp. I kompensasjonsfasen (uker til måneder): Tidligst mulig seponering av sedativa/proklorperazin og mobilisering. Noe økt svimmelhet og kvalme må tolereres. Hyppige pauser, hvile og søvn er viktig. Oppfølgning av fysioterapeut/balanseterapeut med målrettet trening er sterkt ønskelig.\
+**Prognose:** Vertigo og hørselstap etter hodetraume uten basisfraktur er oftest forbigående. Benign paroksysmal posisjonsvertigo synes å ha noe dårligere prognose etter hodetraume enn ellers, men de fleste har likevel god effekt av behandling.

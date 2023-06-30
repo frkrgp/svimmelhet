@@ -1,0 +1,16 @@
+## Alternobar vertigo {#sec-alternobar}
+
+**ICD-10:** Andre spesifiserte virkninger av lufttrykk og vanntrykk (T70.8)\
+**ICD-11:** Other specified effects of air pressure or water pressure (NF04.Y)\
+**Forekomst:** Svært vanlig blant dykkere. Livstidsprevalens 30 -- 40 % blant yrkesdykkere. Også vanlig blant jagerflygere (10 -- 30 %). Forekomst blant sivile piloter og flypassasjerer er antakelig lavere.\
+**Etiologi:** Hurtig trykkfall ved dykking (oftest) eller flyging.\
+**Patogenese:** Antatt å skyldes asymmetrisk trykkutligning til mellomøret med påvirkning av det indre øret.\
+**Anamnese:** Kortvarig vertigo som er av rotatorisk karakter (oftest) og oppstår under oppstigning (oftest) fra dykk. Symptomene er ikke til stede etter avsluttet dykk.\
+**Kliniske funn:** Oftest ingen. Rutineundersøkelse inkluderer otoskopi og kliniske vestibulære prøver.\
+**Supplerende undersøkelser:** Oftest normale funn. Tilleggsundersøkelser er oftest unødvendige ved typisk klinikk.\
+**Diagnose:** På bakgrunn av karakteristisk anamnese.\
+**Differensialdiagnose:** Vestibulær trykkfallsyke skal mistenkes ved vertigo etter avsluttet dykk. Barotraume av det indre øret er oftest assosiert med øresmerter under nedstigning, og symptomene vedvarer etter oppstigningen.\
+**Ansvarsfordeling:** Pasienter med plagsomme symptomer utredes av dykkerlege eventuelt i samarbeid med øre-nese-halsspesialist.\
+**Mål for behandling:** Forebygging av komplikasjoner og ulykker.\
+**Behandling:** Under pågående episode kan dykkeren ha problem med å komme seg til overflaten innenfor planlagt dykketid. Nedstigning til symptomene forsvinner kan bli nødvendig. Deretter må trykkutligningsprosedyrer til mellomørene praktiseres, før forsiktig oppstigning. Profylaktisk bør dykking unngås ved svulne slimhinner i øvre luftveier (forkjøling, allergi).\
+**Prognose:** Svimmelheten er kortvarig og forbigående. Alternobar vertigo synes sjelden å være årsak til farlige situasjoner under dykk [@Klingmann2006]. En sjelden gang kan vertigo være kraftig nok til å fremkalle brekninger, hvilket kan være farlig ved dykking med hjelm og oronasal innermaske [@Molvær1988].
