@@ -1,6 +1,6 @@
 # Bakgrunn
 
-Her får du grunnleggende teori som hjelper deg til å forstå den mer praktisk rettede delen av boken. Les den gjerne når du har litt tid til overs.
+Her lærer du grunnleggende teori som hjelper deg til å forstå den mer praktisk rettede delen av boken. Les den gjerne når du har litt tid til overs.
 
 ### Hva du lærer
 
@@ -11,4 +11,4 @@ Her får du grunnleggende teori som hjelper deg til å forstå den mer praktisk 
 
 ### Hva du trenger
 
--   Ca 60 minutter uforstyrret lesing
+-   Ca 60 minutter tid til uforstyrret lesing
