@@ -4,7 +4,7 @@ Dette er en lærebok i utredning og behandling av pasienter med vestibulære syk
 
 *Vestibulære sykdommer* er sykdommer som påvirker likevektssansen og gir symptomer som svimmelhet og dårlig balanse. Disse sykdommene behandles av mange grupper helsepersonell og av leger innen flere etablerte spesialiteter. Det er likevel først i de senere år at man har begynt å se på disse tilstandene samlet og definere dem som en viktig sykdomsgruppe som krever høy, tverrfaglig kompetanse. Dette skyldes ikke minst det faktum at svimmelhet og dårlig balanse er svært vanlige helseplager i befolkningen, noe som tydelig fremgår av grafene nedenfor.
 
-!["Svimmelhet eller dårlig balanse. Plaget siste 3 måneder". Selvrapporterte plager i den norske befolkningen. Levekårsundersøkelsen, Statistisk sentralbyrå (<https://www.ssb.no>)](images/ssb.png){style="padding:20px;"}
+!["Svimmelhet eller dårlig balanse. Plaget siste 3 måneder". Selvrapporterte plager i den norske befolkningen. Levekårsundersøkelsen, Statistisk sentralbyrå (<https://www.ssb.no>). Panelet til venstre viser tall fra 2019, mens panelet til høyre viser tall fra 1998 -- 2019.](images/ssb.png){style="padding:20px;"}
 
 ## Forord til første utgave {#sec-forord}
 
