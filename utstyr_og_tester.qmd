@@ -42,6 +42,6 @@ Et håndholdt otoskop er et enkelt hjelpemiddel for å påvise tegn til ørebete
 
 En modell av det indre øret kan være svært nyttig som hjelpemiddel i tolkning av nystagmus av perifer, vestibulær årsak, da stimulering eller lammelse av en buegang gir nystagmus i samme plan som buegangen (Ewalds første lov). Dette er særlig viktig i diagnostikk av benign paroksysmal posisjonsvertigo.
 
-![En [papirmodell](papirmodell.pdf) av buegangene kan lastes ned gratis, og innsatsen med klipping og bretting gir deg betaling i form av bedre anatomisk forståelse av buegangenes orientering.](images/papirmodell.jpg){style="padding:40px;"}
+![En [papirmodell](/resources/papirmodell.pdf) av buegangene kan lastes ned gratis, og innsatsen med klipping og bretting gir deg betaling i form av bedre anatomisk forståelse av buegangenes orientering.](images/papirmodell.jpg){style="padding:40px;"}
 
 ![Luksusmodell av det indre øret i 18 x forstørrelse](images/modell.jpg){style="padding:40px;"}
