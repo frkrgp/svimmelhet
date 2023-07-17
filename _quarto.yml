@@ -13,7 +13,7 @@ book:
   site-url: https://frkrgp.quarto.pub/svimmelhet/
   repo-url: https://github.com/frkrgp/svimmelhet
   repo-branch: main
-  repo-actions: [edit, issue]
+  repo-actions: [edit]
   
   chapters:
   - index.qmd
