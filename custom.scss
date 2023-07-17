@@ -12,9 +12,19 @@ div.sidebar-item-container .active {
   font-weight: bold;
 }
 
-img.quarto-cover-image {
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15);
-    margin-top: 70px;
+.margin-footer-item {
+  margin-top:-15px;
+}
+
+.margin-footer-item p>a {
+  font-size:.875rem;
+  margin-left:22px;
+  text-decoration: none;
+  color:inherit;
+}
+
+.margin-footer-item p>a:hover {
+  color:#00857c;
 }
 
 /* Diagnoseblokkene - disse krever litt ekstra padding av teksten*/

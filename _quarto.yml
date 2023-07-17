@@ -9,7 +9,7 @@ book:
   sidebar:
     collapse-level: 1
     logo: vertigokvartetten.png
-    
+  margin-footer: "[Rapporter et problem](mailto:frederik@balanselaboratoriet.no)"
   site-url: https://frkrgp.quarto.pub/svimmelhet/
   repo-url: https://github.com/frkrgp/svimmelhet
   repo-branch: main
