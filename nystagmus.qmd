@@ -2,7 +2,7 @@
 
 Nystagmus er ufrivillige, repetitive øyebevegelser. Vestibulære sykdommer gir ofte en spesiell type nystagmus der øynene hele tiden driver i en retning (langsom fase) og deretter rykker tilbake i motsatt retning (rask fase).
 
-![Vestibulær nystagmus består av en langsom fase der øynene driver i en retning og en rask fase der øynene rykker tilbake i motsatt retning. Vi angir nystagmusretning ut fra den raske fasen. På animasjonen over slår altså nystagmus mot venstre. Det er også en liten rotatorisk komponent som kan beskrives som at øyets øvre pol slår mot venstre. Merk at begge øynene beveger seg likt. Nystagmus er altså konjugert. Denne typen nystagmus kan ses ved høyresidig vestibularisnevritt, men også ved lesjoner i hjernestammen eller lillehjernen.](images/nystagmus1.gif){style="padding:40px;" width="40%"}
+![Vestibulær nystagmus består av en langsom fase der øynene driver i en retning og en rask fase der øynene rykker tilbake i motsatt retning. Vi angir nystagmusretning ut fra den raske fasen. På animasjonen over slår altså nystagmus mot venstre. Det er også en liten rotatorisk komponent som kan beskrives som at øyets øvre pol slår mot venstre. Merk at begge øynene beveger seg likt. Vi sier da at nystagmus er "konjugert". Denne typen nystagmus kan ses ved høyresidig vestibularisnevritt, men også ved lesjoner i hjernestammen eller lillehjernen.](images/nystagmus1.gif){style="padding:40px;" width="40%"}
 
 Noen pasienter, særlig svaksynte, kan ha medfødt nystagmus som er pendulerende, dvs. at øynene beveger seg like raskt i begge retninger. Denne typen nystagmus skyldes ikke øresykdom og gir sjelden svimmelhet eller balanseproblemer.
 
