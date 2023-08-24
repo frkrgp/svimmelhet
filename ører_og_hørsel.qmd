@@ -4,11 +4,11 @@ I dette kapittelet lærer du hvordan du kan undersøke pasienter uten avansert u
 
 ## Øreundersøkelse
 
-Øreundersøkelse er særlig relevant for å diagnostisere komplikasjoner til ørebetennelse samt traumer mot øret, inkludert skader i forbindelse med dykking.
+Øreundersøkelse er særlig relevant for å diagnostisere komplikasjoner til ørebetennelse samt øreskader, inkludert skader i forbindelse med dykking.
 
-Du bør begynne med å undersøke det ytre øret og ørets omgivelser for rødhet, hevelser, utslett eller andre forandringer. Hevelse og rubor bak øret kan være tegn på mastoiditt, en alvolig komplikasjon til mellomørebetennelse som krever rask behandling i sykehus. Små blemmer og sår i øregangen kan være tegn på herpes zoster oticus, som kan gi hørselstap, vertigo og facialisparese. Hevelse, rubor og ømhet i øregangen er ofte tegn på øregangsbetennelse.
+Du bør begynne med å undersøke det ytre øret og ørets omgivelser for rødhet, hevelser, utslett eller andre forandringer. Hevelse og rødhet bak øret kan være tegn på mastoiditt, en alvolig komplikasjon til mellomørebetennelse som krever rask behandling i sykehus. Små blemmer og sår i øregangen kan være tegn på herpes zoster oticus, som kan gi hørselstap, vertigo og ansiktslammelse. Hevelse, rødhet og ømhet i øregangen er ofte tegn på øregangsbetennelse.
 
-Hvis du har tilgang til otoskop, bør du undersøke trommehinnen for rubor og tegn til ørebetennelse. Hos en pasient med vertigo eller svimmelhet er tegn til mellomørebetennelse et viktig funn som tilsier behov for rask spesialistundersøkelse, ofte som øyeblikkelig hjelp. Ved hodetraumer er otoskopi viktig for å detektere blod i mellomøret (hematotympanon) som kan være tegn på tinningbensfraktur.
+Hvis du har tilgang til otoskop, bør du undersøke trommehinnen for rødhet og tegn til ørebetennelse. Hos en pasient med vertigo eller svimmelhet er tegn til mellomørebetennelse et viktig funn som tilsier behov for rask spesialistundersøkelse, ofte som øyeblikkelig hjelp. Ved hodeskader er otoskopi viktig for å oppdage blod i mellomøret (hematotympanon) som kan være tegn på tinningbensfraktur.
 
 ## Hørselsundersøkelse
 
@@ -16,9 +16,9 @@ Begynn gjerne med å teste om pasienten hører fingergnissing foran begge ører.
 
 ### Webers prøve
 
-Slå an stemmegaffelen, f.eks. mot kneskolen, slik at du får en kraftig tone. Plasser stemmegaffelen mot midten av pannen til pasienten med et fast og jevnt trykk. Spør om pasienten hører tonen midt i hodet eller eventuelt kraftigere i ett øre. Ved mekanisk hørselstap lateraliserer tonen til det syke øret. Ved nevrogent hørselstap lateraliserer tonen til det friske øret.
+Slå an stemmegaffelen, f.eks. mot kneskålen, slik at du får en kraftig tone. Plasser stemmegaffelen mot midten av pannen til pasienten med et fast og jevnt trykk. Spør om pasienten hører tonen midt i hodet eller eventuelt kraftigere i ett øre. Ved mekanisk hørselstap lateraliserer tonen til det syke øret. Ved nevrogent hørselstap lateraliserer tonen til det friske øret.
 
-Undersøkelsen er særlig relevant ved undersøkelser av komplikasjoner til otitt eller øretraume. Du vet da oftest hvilket øre som er skadet eller betent. Webers prøve kan da fortelle deg om det indre øret er skadet eller det kun er et ledningshinder, f.eks. pga blod eller puss i mellomøret.
+Undersøkelsen er særlig relevant ved undersøkelser av komplikasjoner til otitt eller øreskade. Du vet da oftest hvilket øre som er skadet eller betent. Webers prøve kan da fortelle deg om det indre øret er skadet eller det kun er et ledningshinder, f.eks. pga blod eller puss i mellomøret.
 
 ### Rinnes prøve
 
