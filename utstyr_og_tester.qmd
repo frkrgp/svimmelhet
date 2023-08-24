@@ -30,7 +30,7 @@ Verdien av videonystagmografi er at metoden gjør det mulig å få ut en kurve -
 
 En stemmegaffel med frekvens 256 Hz er et viktig hjelpemiddel i undersøkelsen av pasienter med akutt vestibulært syndrom, særlig når det er mistanke om at svimmelhetssymptomene kan være forårsaket av komplikasjoner til infeksjon eller skade av øret, inkludert trykkskader ved dykking. Stemmegaffel er også viktig i diagnostikk av andre tilstander, som buegangsdehiscens.
 
-![Stemmegaffel med frekvens 256 Hz til medisinsk bruk (men ikke bruk den til å stemme instrumenter med da 256 Hz ikke er en helt ren C etter dagens standard[@verditu]).](images/stemmegaffel.jpg){style="padding:40px;"}
+![Stemmegaffel med frekvens 256 Hz til medisinsk bruk (men ikke bruk den til å stemme instrumenter med da 256 Hz ikke er en helt ren C etter dagens standard[@concert2023]).](images/stemmegaffel.jpg){style="padding:40px;"}
 
 ## Otoskop
 
