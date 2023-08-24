@@ -1,6 +1,5 @@
 project:
   type: book
-  output-dir: _book
   
 book:
   title: "Svimmelhet - diagnostikk og behandling"
