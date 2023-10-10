@@ -4,7 +4,7 @@
 **ICD-11:** Vestibular neuritis (AB30.0)\
 **Synonymer:** Neuritis vestibularis, akutt unilateral perifer vestibulopati, eng. vestibular neuritis / neuronitis\
 **Definisjon:** Akutt, ensidig, perifer vestibulopati av ukjent, eller antatt viral, årsak\
-**Forekomst:** Insidens ca. 15 per 100 000 per år. Sykehusinnleggelser i Norge: 700 -- 900 pasienter per år. Forekommer i alle aldre med høyest insidens fra 30 til 50 år.\
+**Forekomst:** Insidens ca. 15 per 100 000 per år. Sykehusinnleggelser i Norge: 700 -- 900 pasienter per år[@goplen]. Forekommer i alle aldre med høyest insidens fra 30 til 50 år.\
 **Etiologi:** Antatt reaktivering av herpes simplex eller andre nevrotrope virus.\
 **Patogenese:** Ødem og strangulering av nervus vestibularis i benet kanal til vestibulum. Parese av nerven fører til asymmetrisk aktivitet i vestibulariskjernene, vertigo, brekninger, falltendens og nystagmus via forbindelser til korteks, brekningssenteret i hjernestammen, ryggmarg og øyemuskelkjerner.\
 **Anamnese:** *Debut:* Akutt eller hyperakutt. Noen ganger (\<50 %) utløst av øvre luftveisinfeksjon. *Tidsforløp:* I akuttfasen kontinuerlig vertigo etterfulgt av gradvis bedring over uker til måneder. Kortvarig økning av symptomer relatert til bevegelse og fysisk aktivitet. *Svimmelhetens karakter:* Rotatorisk (oftest) eller nautisk vertigo. *Utløsende faktorer:* Spontant, men se Debut og Tidsforløp. *Ledsagende symptomer:*Nesten alltid kvalme og brekninger. Falltendens til syk side (oftest).\
