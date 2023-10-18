@@ -2,7 +2,7 @@
 
 I dette kapittelet får du lære en generell metode for vurdering av pasienter med vestibulære symptomer som svimmelhet og ustøhet. Metoden tar utgangspunkt i TiTrATE-algoritmen for utredning av akutt vertigo[@Newman-Toker2015] og Verdens helseorganisasjon sin [klassifikasjon](#sec-klassifikasjon) av svimmelhetssyndromer (ICD-11). Diagnostikk av konkrete sykdommer og tilstander er beskrevet i mer detalj i diagnosekapitlene i denne boken.
 
-Når mange opplysninger skal samles inn og vurderes, er det svært mye å vinne på en systematisk tilnærming. Det anbefales å bruke [spørreskjemaer](#sec-sykehistorien) for å sikre kvaliteten på de pasient-rapporterte opplysningene i journalen og gjøre pasientsamtalen mer fokusert og effektiv.
+Når mange opplysninger skal samles inn og vurderes, er det svært mye å vinne på en systematisk tilnærming. Det anbefales å bruke [spørreskjemaer](#sec-spørreskjemaer) for å sikre kvaliteten på de pasient-rapporterte opplysningene i journalen og gjøre pasientsamtalen mer fokusert og effektiv.
 
 ## Prioritering av symptomer (triage)
 
@@ -23,7 +23,7 @@ Det er også viktig å notere viktige bakgrunnsopplysninger om tidligere sykdomm
 Når det er tid for å fokusere på svimmelhetssymptomene bør du først få oversikt over tidsforløpet. Når oppsto symptomene? Kom de akutt eller gradvis? Er de episodiske (anfall eller perioder) eller konstante over tid? Hvis pasienten rapporterer episodiske plager, er det viktig å finne ut hvor lenge episodene varer. Etter den innledende samtalen kan hovedproblemet ofte kategoriseres som akutt, episodisk eller kronisk, og dette har stor praktisk og diagnostisk betydning for håndteringen videre. Bruk lenkene i tabellen nedenfor for å lese mer om de ulike tidsforløpene og aktuelle diffensialdiagnoser.
 
 |                                                 |                                                                                                                                                                                                                                                                                                                                                 |
-|--------------|---------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | [Akutt vestibulært syndrom](#sec-akutt)         | Pasienten er plutselig svimmel og uvel uten klar årsak. Symptomene vedvarer og er uvanlig kraftige (for pasienten). Kvalme og oppkast er vanlig. Noen har nystagmus, hørselssymptomer eller andre nevrologiske symptomer. Viktige differensialdiagnoser er vestibularisnevritt, hjerneslag, labyrintitt. Utredes som øyeblikkelig hjelp.        |
 | [Episodisk vestibulært syndrom](#sec-episodisk) | Gjentatte episoder med svimmelhet og uvelhet. Varigheten av episodene er viktig for diagnosen. Viktige differensialdiagnoser er blant annet BPPV, Menières sykdom, migrene og hemodynamisk ortostatisk svimmelhet. Disse sykdommene er ufarlige, men kan ha negativ innvirkning på livskvalitet og funksjon. Rask utredning er derfor ønskelig. |
 | [Kronisk vestibulært syndrom](#sec-kronisk)     | Svimmelhet og ustøhet som vedvarer over lengre tid og er til stede nesten hver dag. Vanligvis brukes betegnelsen "kronisk" når symptomene er til stede mer enn 50 % av dagene og har vart i 3 måneder eller mer. Pasientene har ofte behov for langsiktig rehabilitering.                                                                       |
