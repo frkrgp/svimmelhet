@@ -8,7 +8,7 @@
 **Etiologi:** Antatt reaktivering av herpes simplex eller andre nevrotrope virus.\
 **Patogenese:** Ødem og strangulering av nervus vestibularis i benet kanal til vestibulum. Parese av nerven fører til asymmetrisk aktivitet i vestibulariskjernene, vertigo, brekninger, falltendens og nystagmus via forbindelser til korteks, brekningssenteret i hjernestammen, ryggmarg og øyemuskelkjerner.\
 **Anamnese:** *Debut:* Akutt eller hyperakutt. Noen ganger (\<50 %) utløst av øvre luftveisinfeksjon. *Tidsforløp:* I akuttfasen kontinuerlig vertigo etterfulgt av gradvis bedring over uker til måneder. Kortvarig økning av symptomer relatert til bevegelse og fysisk aktivitet. *Svimmelhetens karakter:* Rotatorisk (oftest) eller nautisk vertigo. *Utløsende faktorer:* Spontant, men se Debut og Tidsforløp. *Ledsagende symptomer:*Nesten alltid kvalme og brekninger. Falltendens til syk side (oftest).\
-**Kliniske funn:** Spontannystagmus mot frisk side (kriterium). Patologisk hodeimpulstest til syk side (\>50 %). Falltendens til syk side (\>50 %).\
+**Kliniske funn:** Spontannystagmus mot frisk side (kriterium). Patologisk hodeimpulstest til syk side. Falltendens til syk side (\>50 %).\
 **Supplerende undersøkelser:** *Kalorisk prøve:* Kanalparese på syk side. *CT:* Vanligvis utilstrekkelig til å utelukke infarkt i bakre skallegrop. *MR:* Indisert ved klinisk mistanke om sentral årsak. *VEMP:* Utslukket på syk side ved affeksjon av nedre gren av n. vestibularis. *Borrelia-serologi:* Indisert særlig ved sykdom hos barn.\
 **Diagnose:** Diagnostiske kriterier [@Strupp2022]:
 
